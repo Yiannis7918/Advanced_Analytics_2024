@@ -1,0 +1,6 @@
+ipykernel
+keras
+matplotlib
+tensorflow
+opencv-python
+random2
