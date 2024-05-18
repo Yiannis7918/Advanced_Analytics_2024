@@ -3,25 +3,14 @@
 This repository contains the code for all four assignments of group 28 for the course Advanced Analytics at KU Leuven. 
 
 
-
-Use `pip` to install all the necessary packages in our requirements.txt file.
-
-```
-pip install -r requirements.txt
-```
-
-
 ## Assignment 1
+We constructed a predictive model to predict churn of Telco customers. We applied logistic regression and ensemble methods, specifically LightGBM, XGBoost, and Random Forest. For evaluation metrics, we used the profit @ top-20 and AUC. Finally, we compare models and select the one with
+the best performance to predict customer churn on the unlabeled test set.
 
-- Goal =  constructing a predictive model on churn of telco customers.
-- Split train into validation
-- Evaluation: Profit @ top 20 + AUC
-- Profit = Average cost min, k = 20
 
-### Report (critical reflect)
-- Overvuiew pipeline
-- EDA
-- Preprocessing
-- Model construction
-- Validation + results
+## Assignment 2
+
+## Assignment 3
+
+## Assignment 4
 
