@@ -1,0 +1,3386 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d20" for="edge" attr.name="edge_type" attr.type="string" />
+  <key id="d19" for="node" attr.name="User_label" attr.type="string" />
+  <key id="d18" for="node" attr.name="verified" attr.type="boolean" />
+  <key id="d17" for="node" attr.name="statuses_count" attr.type="long" />
+  <key id="d16" for="node" attr.name="screen_name" attr.type="string" />
+  <key id="d15" for="node" attr.name="possibly_sensitive" attr.type="boolean" />
+  <key id="d14" for="node" attr.name="normal_followers_count" attr.type="long" />
+  <key id="d13" for="node" attr.name="name" attr.type="string" />
+  <key id="d12" for="node" attr.name="media_count" attr.type="long" />
+  <key id="d11" for="node" attr.name="location" attr.type="string" />
+  <key id="d10" for="node" attr.name="listed_count" attr.type="long" />
+  <key id="d9" for="node" attr.name="is_blue_verified" attr.type="boolean" />
+  <key id="d8" for="node" attr.name="friends_count" attr.type="long" />
+  <key id="d7" for="node" attr.name="followers_count" attr.type="long" />
+  <key id="d6" for="node" attr.name="favourites_count" attr.type="long" />
+  <key id="d5" for="node" attr.name="description" attr.type="string" />
+  <key id="d4" for="node" attr.name="created_at" attr.type="string" />
+  <key id="d3" for="node" attr.name="Party_label" attr.type="string" />
+  <key id="d2" for="node" attr.name="node_type" attr.type="string" />
+  <key id="d1" for="node" attr.name="label" attr.type="string" />
+  <key id="d0" for="node" attr.name="ident" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="1017791">
+      <data key="d0">N-VA</data>
+      <data key="d1">N-VA</data>
+      <data key="d2">Party</data>
+      <data key="d3">N-VA</data>
+    </node>
+    <node id="893838">
+      <data key="d4">2014-03-15T10:39:00+00:00</data>
+      <data key="d5">apotheker, schepen van financiën Evergem, federaal volksvertegenwoordiger N-VA , commissie volksgezondheid ,commissie financiën, ontwikkelingssamenwerking.</data>
+      <data key="d6">807</data>
+      <data key="d7">4390</data>
+      <data key="d8">605</data>
+      <data key="d0">2390807984</data>
+      <data key="d9">True</data>
+      <data key="d10">49</data>
+      <data key="d11" />
+      <data key="d12">521</data>
+      <data key="d13">kathleen depoorter</data>
+      <data key="d14">4390</data>
+      <data key="d15">False</data>
+      <data key="d16">KDepoorterMP</data>
+      <data key="d17">2328</data>
+      <data key="d18">False</data>
+      <data key="d1">2390807984</data>
+      <data key="d2">User</data>
+      <data key="d19">2390807984</data>
+    </node>
+    <node id="893842">
+      <data key="d4">2011-09-09T14:05:20+00:00</data>
+      <data key="d5">Parlementslid | West-Vlaams Lijsttrekker @de_NVA Vlaams parlement | Leve de Vlaamse kust! 💛🖤 | Sander.Loones@n-va.be | Tweet in eigen naam | Favoriet ≠ Steun</data>
+      <data key="d6">8548</data>
+      <data key="d7">18505</data>
+      <data key="d8">1851</data>
+      <data key="d0">370709666</data>
+      <data key="d9">True</data>
+      <data key="d10">213</data>
+      <data key="d11">Koksijde - Oostduinkerke</data>
+      <data key="d12">4249</data>
+      <data key="d13">Sander Loones</data>
+      <data key="d14">18505</data>
+      <data key="d15">False</data>
+      <data key="d16">SanderLoones</data>
+      <data key="d17">19280</data>
+      <data key="d18">False</data>
+      <data key="d1">370709666</data>
+      <data key="d2">User</data>
+      <data key="d19">370709666</data>
+    </node>
+    <node id="1017786">
+      <data key="d0">PS</data>
+      <data key="d1">PS</data>
+      <data key="d2">Party</data>
+      <data key="d3">PS</data>
+    </node>
+    <node id="893843">
+      <data key="d4">2011-08-22T06:15:04+00:00</data>
+      <data key="d5">Députée fédérale au @pslachambre @PSofficiel🌹</data>
+      <data key="d6">259</data>
+      <data key="d7">255</data>
+      <data key="d8">225</data>
+      <data key="d0">359809276</data>
+      <data key="d9">False</data>
+      <data key="d10">15</data>
+      <data key="d11">Liège, Belgique</data>
+      <data key="d12">33</data>
+      <data key="d13">Chanelle Bonaventure</data>
+      <data key="d14">255</data>
+      <data key="d15">False</data>
+      <data key="d16">ChaBonaventure</data>
+      <data key="d17">281</data>
+      <data key="d18">False</data>
+      <data key="d1">359809276</data>
+      <data key="d2">User</data>
+      <data key="d19">359809276</data>
+    </node>
+    <node id="1017790">
+      <data key="d0">Les Engagés</data>
+      <data key="d1">Les Engagés</data>
+      <data key="d2">Party</data>
+      <data key="d3">Les Engagés</data>
+    </node>
+    <node id="893845">
+      <data key="d4">2017-04-12T14:17:17+00:00</data>
+      <data key="d5">Députée Fédérale Les engagés Juriste</data>
+      <data key="d6">1850</data>
+      <data key="d7">1026</data>
+      <data key="d8">397</data>
+      <data key="d0">852163716992966657</data>
+      <data key="d9">False</data>
+      <data key="d10">25</data>
+      <data key="d11">Aywaille, Liege, Belgique</data>
+      <data key="d12">50</data>
+      <data key="d13">Vanessa Matz</data>
+      <data key="d14">1026</data>
+      <data key="d15">False</data>
+      <data key="d16">vanessmatz</data>
+      <data key="d17">993</data>
+      <data key="d18">False</data>
+      <data key="d1">852163716992966657</data>
+      <data key="d2">User</data>
+      <data key="d19">852163716992966657</data>
+    </node>
+    <node id="1017793">
+      <data key="d0">PVDA-PTB</data>
+      <data key="d1">PVDA-PTB</data>
+      <data key="d2">Party</data>
+      <data key="d3">PVDA-PTB</data>
+    </node>
+    <node id="893860">
+      <data key="d4">2022-10-12T20:28:22+00:00</data>
+      <data key="d5">Députée fédérale PTB/ conseillère communale à Herstal/ ex-caissière et syndicaliste chez Aldi</data>
+      <data key="d6">292</data>
+      <data key="d7">271</data>
+      <data key="d8">128</data>
+      <data key="d0">1580294161999306752</data>
+      <data key="d9">False</data>
+      <data key="d10">3</data>
+      <data key="d11">Herstal 4040 </data>
+      <data key="d12">82</data>
+      <data key="d13">Nadia Moscufo</data>
+      <data key="d14">271</data>
+      <data key="d15">False</data>
+      <data key="d16">nadia_moscufo</data>
+      <data key="d17">252</data>
+      <data key="d18">False</data>
+      <data key="d1">1580294161999306752</data>
+      <data key="d2">User</data>
+      <data key="d19">1580294161999306752</data>
+    </node>
+    <node id="893861">
+      <data key="d4">2012-01-28T16:21:55+00:00</data>
+      <data key="d5">Fractievoorzitster PVDA in het Federaal parlement Cheffe de groupe PTB au parlement Fédéral Médecin généraliste - Huisarts</data>
+      <data key="d6">9228</data>
+      <data key="d7">5547</data>
+      <data key="d8">970</data>
+      <data key="d0">476895973</data>
+      <data key="d9">False</data>
+      <data key="d10">76</data>
+      <data key="d11">Charleroi, Belgique</data>
+      <data key="d12">1350</data>
+      <data key="d13">Sofie Merckx</data>
+      <data key="d14">5547</data>
+      <data key="d15">False</data>
+      <data key="d16">Sofie_Merckx</data>
+      <data key="d17">14040</data>
+      <data key="d18">False</data>
+      <data key="d1">476895973</data>
+      <data key="d2">User</data>
+      <data key="d19">476895973</data>
+    </node>
+    <node id="893864">
+      <data key="d4">2009-05-23T12:04:37+00:00</data>
+      <data key="d5">Président &amp; Député fédéral du PTB (Parti du Travail de Belgique)  / Voorzitter &amp; federaal parlementslid PVDA (Partij van de Arbeid)</data>
+      <data key="d6">4361</data>
+      <data key="d7">38154</data>
+      <data key="d8">1166</data>
+      <data key="d0">42015742</data>
+      <data key="d9">False</data>
+      <data key="d10">360</data>
+      <data key="d11">Liége</data>
+      <data key="d12">1945</data>
+      <data key="d13">Raoul Hedebouw</data>
+      <data key="d14">38154</data>
+      <data key="d15">False</data>
+      <data key="d16">RaoulHedebouw</data>
+      <data key="d17">34715</data>
+      <data key="d18">False</data>
+      <data key="d1">42015742</data>
+      <data key="d2">User</data>
+      <data key="d19">42015742</data>
+    </node>
+    <node id="1017797">
+      <data key="d0">ONAFH</data>
+      <data key="d1">ONAFH</data>
+      <data key="d2">Party</data>
+      <data key="d3">ONAFH</data>
+    </node>
+    <node id="893879">
+      <data key="d4">2010-07-14T13:05:51+00:00</data>
+      <data key="d5">Voorzitter Lijst Dedecker - Recht voor de raap</data>
+      <data key="d6">265</data>
+      <data key="d7">53817</data>
+      <data key="d8">1039</data>
+      <data key="d0">166555933</data>
+      <data key="d9">False</data>
+      <data key="d10">239</data>
+      <data key="d11">Middelkerke</data>
+      <data key="d12">200</data>
+      <data key="d13">Jean Marie Dedecker</data>
+      <data key="d14">53817</data>
+      <data key="d15">False</data>
+      <data key="d16">JMDedecker</data>
+      <data key="d17">2582</data>
+      <data key="d18">False</data>
+      <data key="d1">166555933</data>
+      <data key="d2">User</data>
+      <data key="d19">166555933</data>
+    </node>
+    <node id="1017787">
+      <data key="d0">cd&amp;v</data>
+      <data key="d1">cd&amp;v</data>
+      <data key="d2">Party</data>
+      <data key="d3">cd&amp;v</data>
+    </node>
+    <node id="893914">
+      <data key="d4">2013-07-11T07:29:46+00:00</data>
+      <data key="d5">Federaal volksvertegenwoordiger / Lijstduwer Europees parlement</data>
+      <data key="d6">5161</data>
+      <data key="d7">42110</data>
+      <data key="d8">1038</data>
+      <data key="d0">1585166444</data>
+      <data key="d9">False</data>
+      <data key="d10">367</data>
+      <data key="d11">Belgium</data>
+      <data key="d12">1302</data>
+      <data key="d13">Koen Geens</data>
+      <data key="d14">42110</data>
+      <data key="d15">False</data>
+      <data key="d16">Koen_Geens1</data>
+      <data key="d17">9486</data>
+      <data key="d18">False</data>
+      <data key="d1">1585166444</data>
+      <data key="d2">User</data>
+      <data key="d19">1585166444</data>
+    </node>
+    <node id="1017796">
+      <data key="d0">Ecolo-Groen</data>
+      <data key="d1">Ecolo-Groen</data>
+      <data key="d2">Party</data>
+      <data key="d3">Ecolo-Groen</data>
+    </node>
+    <node id="894155">
+      <data key="d4">2012-02-09T07:38:45+00:00</data>
+      <data key="d5">Députée fédérale @ecolo / féministe / politologue / urbaniste</data>
+      <data key="d6">1901</data>
+      <data key="d7">6116</data>
+      <data key="d8">1055</data>
+      <data key="d0">487325531</data>
+      <data key="d9">False</data>
+      <data key="d10">113</data>
+      <data key="d11">Liège</data>
+      <data key="d12">171</data>
+      <data key="d13">Sarah Schlitz</data>
+      <data key="d14">6116</data>
+      <data key="d15">False</data>
+      <data key="d16">SarahSchlitz</data>
+      <data key="d17">935</data>
+      <data key="d18">False</data>
+      <data key="d1">487325531</data>
+      <data key="d2">User</data>
+      <data key="d19">487325531</data>
+    </node>
+    <node id="1017788">
+      <data key="d0">Open Vld</data>
+      <data key="d1">Open Vld</data>
+      <data key="d2">Party</data>
+      <data key="d3">Open Vld</data>
+    </node>
+    <node id="894237">
+      <data key="d4">2014-01-02T08:59:58+00:00</data>
+      <data key="d5">Volksvertegenwoordiger @DeKamerBe @openvld ||Burgemeester Grobbendonk ||https://t.co/RpUnpXGheh || Mama van Louis en Maurice</data>
+      <data key="d6">2769</data>
+      <data key="d7">1123</data>
+      <data key="d8">813</data>
+      <data key="d0">2257825612</data>
+      <data key="d9">False</data>
+      <data key="d10">17</data>
+      <data key="d11">Grobbendonk, België</data>
+      <data key="d12">80</data>
+      <data key="d13">Marianne Verhaert</data>
+      <data key="d14">1123</data>
+      <data key="d15">False</data>
+      <data key="d16">MarianeVerhaert</data>
+      <data key="d17">701</data>
+      <data key="d18">False</data>
+      <data key="d1">2257825612</data>
+      <data key="d2">User</data>
+      <data key="d19">2257825612</data>
+    </node>
+    <node id="894241">
+      <data key="d4">2011-09-01T21:13:40+00:00</data>
+      <data key="d5">Ondernemerschap zit in mijn bloed. Ik ben liberaal in hart en nieren. Volksvertegenwoordiger voor Open Vld sinds 2019. Voorzitter Commissie Energie &amp; Klimaat</data>
+      <data key="d6">631</data>
+      <data key="d7">3411</data>
+      <data key="d8">691</data>
+      <data key="d0">366255557</data>
+      <data key="d9">True</data>
+      <data key="d10">58</data>
+      <data key="d11">Antwerp</data>
+      <data key="d12">1097</data>
+      <data key="d13">Christian Leysen 🎷</data>
+      <data key="d14">3411</data>
+      <data key="d15">False</data>
+      <data key="d16">ChristianLeysen</data>
+      <data key="d17">3061</data>
+      <data key="d18">False</data>
+      <data key="d1">366255557</data>
+      <data key="d2">User</data>
+      <data key="d19">366255557</data>
+    </node>
+    <node id="894243">
+      <data key="d4">2015-11-21T22:31:32+00:00</data>
+      <data key="d5">Member of Parliament / Kamerlid voor N-VA gespecialiseerd in #cyberveiligheid &amp; #digitalisering. Volg in de Kamer dossiers #telecom #bpost en #antisemitisme</data>
+      <data key="d6">6253</data>
+      <data key="d7">6946</data>
+      <data key="d8">863</data>
+      <data key="d0">4245311650</data>
+      <data key="d9">True</data>
+      <data key="d10">62</data>
+      <data key="d11">Antwerp, Belgium</data>
+      <data key="d12">1154</data>
+      <data key="d13">Michael Freilich</data>
+      <data key="d14">6946</data>
+      <data key="d15">False</data>
+      <data key="d16">MichaelFreilich</data>
+      <data key="d17">4791</data>
+      <data key="d18">False</data>
+      <data key="d1">4245311650</data>
+      <data key="d2">User</data>
+      <data key="d19">4245311650</data>
+    </node>
+    <node id="894345">
+      <data key="d4">2015-02-24T20:10:01+00:00</data>
+      <data key="d5">Member of the Belgian Parliament (Member of the Defence Committee + Committee on Foreign Affairs) / Women’s rights activist/Dentist</data>
+      <data key="d6">5957</data>
+      <data key="d7">112770</data>
+      <data key="d8">683</data>
+      <data key="d0">3060125596</data>
+      <data key="d9">True</data>
+      <data key="d10">391</data>
+      <data key="d11">Belgium</data>
+      <data key="d12">2059</data>
+      <data key="d13">Darya Safai MP</data>
+      <data key="d14">112770</data>
+      <data key="d15">False</data>
+      <data key="d16">SafaiDarya</data>
+      <data key="d17">5080</data>
+      <data key="d18">False</data>
+      <data key="d1">3060125596</data>
+      <data key="d2">User</data>
+      <data key="d19">3060125596</data>
+    </node>
+    <node id="894913">
+      <data key="d4">2012-11-16T08:23:58+00:00</data>
+      <data key="d5">Vice President NATO pa/ MP/ Mayor/ State Secretary for Migration (2014-18) / Rapporteur Middle East Special Group NATO pa</data>
+      <data key="d6">23307</data>
+      <data key="d7">162269</data>
+      <data key="d8">4677</data>
+      <data key="d0">951258554</data>
+      <data key="d9">True</data>
+      <data key="d10">566</data>
+      <data key="d11" />
+      <data key="d12">8362</data>
+      <data key="d13">Theo Francken MP</data>
+      <data key="d14">162269</data>
+      <data key="d15">False</data>
+      <data key="d16">FranckenTheo</data>
+      <data key="d17">46417</data>
+      <data key="d18">False</data>
+      <data key="d1">951258554</data>
+      <data key="d2">User</data>
+      <data key="d19">951258554</data>
+    </node>
+    <node id="1017795">
+      <data key="d0">MR</data>
+      <data key="d1">MR</data>
+      <data key="d2">Party</data>
+      <data key="d3">MR</data>
+    </node>
+    <node id="895067">
+      <data key="d4">2012-03-02T15:04:42+00:00</data>
+      <data key="d5">Députée-Bourgmestre de Waterloo. Mariée, 3 enfants.</data>
+      <data key="d6">180</data>
+      <data key="d7">2414</data>
+      <data key="d8">339</data>
+      <data key="d0">512045801</data>
+      <data key="d9">False</data>
+      <data key="d10">57</data>
+      <data key="d11">Belgique</data>
+      <data key="d12">189</data>
+      <data key="d13">Florence Reuter</data>
+      <data key="d14">2414</data>
+      <data key="d15">False</data>
+      <data key="d16">FlorenceReuter</data>
+      <data key="d17">551</data>
+      <data key="d18">False</data>
+      <data key="d1">512045801</data>
+      <data key="d2">User</data>
+      <data key="d19">512045801</data>
+    </node>
+    <node id="1017792">
+      <data key="d0">DéFI</data>
+      <data key="d1">DéFI</data>
+      <data key="d2">Party</data>
+      <data key="d3">DéFI</data>
+    </node>
+    <node id="895090">
+      <data key="d4">2010-10-10T14:27:57+00:00</data>
+      <data key="d5">Président @defi_eu &amp; député fédéral @LaChambreBEToujours philosophe.</data>
+      <data key="d6">10951</data>
+      <data key="d7">13510</data>
+      <data key="d8">2109</data>
+      <data key="d0">200876111</data>
+      <data key="d9">True</data>
+      <data key="d10">132</data>
+      <data key="d11">Brussels</data>
+      <data key="d12">484</data>
+      <data key="d13">François De Smet</data>
+      <data key="d14">13510</data>
+      <data key="d15">False</data>
+      <data key="d16">francoisdesmet</data>
+      <data key="d17">14085</data>
+      <data key="d18">False</data>
+      <data key="d1">200876111</data>
+      <data key="d2">User</data>
+      <data key="d19">200876111</data>
+    </node>
+    <node id="895290">
+      <data key="d4">2020-10-30T14:49:30+00:00</data>
+      <data key="d5">💚 Kamerlid @groen – Gemeenteraadslid @groenleuven – PhD sociale wetenschappen –  Commissie voor Binnenlandse Zaken, Veiligheid, Migratie en Bestuurszaken</data>
+      <data key="d6">9020</data>
+      <data key="d7">1123</data>
+      <data key="d8">459</data>
+      <data key="d0">1322188861724909568</data>
+      <data key="d9">False</data>
+      <data key="d10">19</data>
+      <data key="d11">Leuven</data>
+      <data key="d12">46</data>
+      <data key="d13">Eva Platteau</data>
+      <data key="d14">1123</data>
+      <data key="d15">False</data>
+      <data key="d16">PlatteauEva</data>
+      <data key="d17">1148</data>
+      <data key="d18">False</data>
+      <data key="d1">1322188861724909568</data>
+      <data key="d2">User</data>
+      <data key="d19">1322188861724909568</data>
+    </node>
+    <node id="895496">
+      <data key="d4">2010-01-05T08:58:28+00:00</data>
+      <data key="d5">Papa. Burgemeester. Federaal Parlementslid.</data>
+      <data key="d6">7056</data>
+      <data key="d7">91516</data>
+      <data key="d8">2746</data>
+      <data key="d0">102008468</data>
+      <data key="d9">False</data>
+      <data key="d10">1158</data>
+      <data key="d11">Kortrijk Vlaanderen Belgium</data>
+      <data key="d12">2465</data>
+      <data key="d13">Vincent Van Quickenborne</data>
+      <data key="d14">91516</data>
+      <data key="d15">False</data>
+      <data key="d16">VincentVQ</data>
+      <data key="d17">23289</data>
+      <data key="d18">False</data>
+      <data key="d1">102008468</data>
+      <data key="d2">User</data>
+      <data key="d19">102008468</data>
+    </node>
+    <node id="895599">
+      <data key="d4">2009-06-23T15:19:23+00:00</data>
+      <data key="d5">Liberaal 💙 - Federaal Parlementslid</data>
+      <data key="d6">22738</data>
+      <data key="d7">22046</data>
+      <data key="d8">1644</data>
+      <data key="d0">50003590</data>
+      <data key="d9">True</data>
+      <data key="d10">230</data>
+      <data key="d11" />
+      <data key="d12">585</data>
+      <data key="d13">Egbert Lachaert</data>
+      <data key="d14">22046</data>
+      <data key="d15">False</data>
+      <data key="d16">egbertlachaert</data>
+      <data key="d17">12100</data>
+      <data key="d18">False</data>
+      <data key="d1">50003590</data>
+      <data key="d2">User</data>
+      <data key="d19">50003590</data>
+    </node>
+    <node id="895600">
+      <data key="d4">2010-05-13T09:47:32+00:00</data>
+      <data key="d5">Burgemeester #Hoeilaart | 🇧🇪 Parlementslid @openvld | Vliegtuigingenieur ✈️ | Veiligheid en een efficiënter België</data>
+      <data key="d6">1649</data>
+      <data key="d7">2066</data>
+      <data key="d8">999</data>
+      <data key="d0">143385147</data>
+      <data key="d9">False</data>
+      <data key="d10">54</data>
+      <data key="d11">Hoeilaart, België</data>
+      <data key="d12">240</data>
+      <data key="d13">Tim Vandenput</data>
+      <data key="d14">2066</data>
+      <data key="d15">False</data>
+      <data key="d16">TimVandenput</data>
+      <data key="d17">1432</data>
+      <data key="d18">False</data>
+      <data key="d1">143385147</data>
+      <data key="d2">User</data>
+      <data key="d19">143385147</data>
+    </node>
+    <node id="896025">
+      <data key="d4">2014-03-10T23:16:05+00:00</data>
+      <data key="d5">Peter Buysrogge - Schepen Sint-Niklaas - federaal volksvertegenwoordiger voor N-VA</data>
+      <data key="d6">682</data>
+      <data key="d7">1601</data>
+      <data key="d8">435</data>
+      <data key="d0">2382815018</data>
+      <data key="d9">False</data>
+      <data key="d10">52</data>
+      <data key="d11">Sint-Niklaas</data>
+      <data key="d12">58</data>
+      <data key="d13">Peter Buysrogge ✌</data>
+      <data key="d14">1601</data>
+      <data key="d15">False</data>
+      <data key="d16">PeterBuysrogge</data>
+      <data key="d17">486</data>
+      <data key="d18">False</data>
+      <data key="d1">2382815018</data>
+      <data key="d2">User</data>
+      <data key="d19">2382815018</data>
+    </node>
+    <node id="1017789">
+      <data key="d0">Vooruit</data>
+      <data key="d1">Vooruit</data>
+      <data key="d2">Party</data>
+      <data key="d3">Vooruit</data>
+    </node>
+    <node id="896029">
+      <data key="d4">2017-07-01T11:00:57+00:00</data>
+      <data key="d5">Federaal volksvertegenwoordiger Vooruit |  Schepen bevoegd voor Armoedebestrijding, Volksgezondheid &amp; Kinderopvang in Beernem |  Mama van Achiel</data>
+      <data key="d6">409</data>
+      <data key="d7">1518</data>
+      <data key="d8">814</data>
+      <data key="d0">881105337830572033</data>
+      <data key="d9">False</data>
+      <data key="d10">19</data>
+      <data key="d11">Beernem, België</data>
+      <data key="d12">52</data>
+      <data key="d13">Vicky Reynaert</data>
+      <data key="d14">1518</data>
+      <data key="d15">False</data>
+      <data key="d16">VickyReynaert</data>
+      <data key="d17">411</data>
+      <data key="d18">False</data>
+      <data key="d1">881105337830572033</data>
+      <data key="d2">User</data>
+      <data key="d19">881105337830572033</data>
+    </node>
+    <node id="896034">
+      <data key="d4">2011-08-31T07:41:20+00:00</data>
+      <data key="d5">Voorzitter Commissie Buitenlandse Zaken, Kamerlid cd&amp;v, vrouwenrechtenactiviste en gemeenteraadslid Leuven</data>
+      <data key="d6">3438</data>
+      <data key="d7">3502</data>
+      <data key="d8">1523</data>
+      <data key="d0">365329481</data>
+      <data key="d9">False</data>
+      <data key="d10">48</data>
+      <data key="d11">Leuven</data>
+      <data key="d12">263</data>
+      <data key="d13">Els Van Hoof</data>
+      <data key="d14">3502</data>
+      <data key="d15">False</data>
+      <data key="d16">ElsVanHoofcdenv</data>
+      <data key="d17">2232</data>
+      <data key="d18">False</data>
+      <data key="d1">365329481</data>
+      <data key="d2">User</data>
+      <data key="d19">365329481</data>
+    </node>
+    <node id="896052">
+      <data key="d4">2015-02-13T16:03:04+00:00</data>
+      <data key="d5">Député à la Chambre des Représentants - Bourgmestre de Farciennes</data>
+      <data key="d6">30</data>
+      <data key="d7">1678</data>
+      <data key="d8">773</data>
+      <data key="d0">3034958314</data>
+      <data key="d9">False</data>
+      <data key="d10">71</data>
+      <data key="d11" />
+      <data key="d12">61</data>
+      <data key="d13">Hugues Bayet</data>
+      <data key="d14">1678</data>
+      <data key="d15">False</data>
+      <data key="d16">HuguesBayet</data>
+      <data key="d17">831</data>
+      <data key="d18">False</data>
+      <data key="d1">3034958314</data>
+      <data key="d2">User</data>
+      <data key="d19">3034958314</data>
+    </node>
+    <node id="896088">
+      <data key="d4">2019-12-09T15:03:05+00:00</data>
+      <data key="d5">Député fédéral - La Chambre des représentants- Belgique</data>
+      <data key="d6">1908</data>
+      <data key="d7">2816</data>
+      <data key="d8">992</data>
+      <data key="d0">1204053801642143747</data>
+      <data key="d9">False</data>
+      <data key="d10">30</data>
+      <data key="d11">Verviers, Belgium</data>
+      <data key="d12">196</data>
+      <data key="d13">Ben Achour Malik</data>
+      <data key="d14">2816</data>
+      <data key="d15">False</data>
+      <data key="d16">BenAchourMalik2</data>
+      <data key="d17">2250</data>
+      <data key="d18">False</data>
+      <data key="d1">1204053801642143747</data>
+      <data key="d2">User</data>
+      <data key="d19">1204053801642143747</data>
+    </node>
+    <node id="896104">
+      <data key="d4">2012-06-14T10:54:47+00:00</data>
+      <data key="d5">Federaal parlementslid (N-VA), burgemeester te Aartselaar, en bovenal bijzonder fiere mama van vier geweldige (b)engeltjes.</data>
+      <data key="d6">10958</data>
+      <data key="d7">5390</data>
+      <data key="d8">1150</data>
+      <data key="d0">608041261</data>
+      <data key="d9">False</data>
+      <data key="d10">93</data>
+      <data key="d11" />
+      <data key="d12">288</data>
+      <data key="d13">Sophie De Wit</data>
+      <data key="d14">5390</data>
+      <data key="d15">False</data>
+      <data key="d16">DeWitSophie</data>
+      <data key="d17">12013</data>
+      <data key="d18">False</data>
+      <data key="d1">608041261</data>
+      <data key="d2">User</data>
+      <data key="d19">608041261</data>
+    </node>
+    <node id="896126">
+      <data key="d4">2012-01-23T11:15:03+00:00</data>
+      <data key="d5">🔸Voorzitter @de_NVA Kamerfractie 🔸 lid partij- en dagelijks bestuur N-VA 🔸 @nvakamer 🔸 anoniem reageren en daarbij schelden of onzin uitkramen = blokkeren</data>
+      <data key="d6">2189</data>
+      <data key="d7">31565</data>
+      <data key="d8">648</data>
+      <data key="d0">471895761</data>
+      <data key="d9">False</data>
+      <data key="d10">208</data>
+      <data key="d11">Antwerpen, België</data>
+      <data key="d12">1062</data>
+      <data key="d13">Peter De Roover</data>
+      <data key="d14">31565</data>
+      <data key="d15">False</data>
+      <data key="d16">PeterDeRoover1</data>
+      <data key="d17">11400</data>
+      <data key="d18">False</data>
+      <data key="d1">471895761</data>
+      <data key="d2">User</data>
+      <data key="d19">471895761</data>
+    </node>
+    <node id="896137">
+      <data key="d4">2021-01-07T13:59:51+00:00</data>
+      <data key="d5" />
+      <data key="d6">783</data>
+      <data key="d7">254</data>
+      <data key="d8">141</data>
+      <data key="d0">1347181098573438977</data>
+      <data key="d9">False</data>
+      <data key="d10">7</data>
+      <data key="d11">Mortsel, België</data>
+      <data key="d12">26</data>
+      <data key="d13">Gitta Vanpeborgh</data>
+      <data key="d14">254</data>
+      <data key="d15">False</data>
+      <data key="d16">VanpeborghGitta</data>
+      <data key="d17">296</data>
+      <data key="d18">False</data>
+      <data key="d1">1347181098573438977</data>
+      <data key="d2">User</data>
+      <data key="d19">1347181098573438977</data>
+    </node>
+    <node id="896250">
+      <data key="d4">2010-11-18T15:04:39+00:00</data>
+      <data key="d5">Eerste schepen stad Oostende (Mobiliteit, Openbaar Domein, en Stadsvernieuwing) - Kamerlid (Sociale Zaken) - Conservatief - Crossfit - bjorn.anseeuw@n-va.be</data>
+      <data key="d6">4250</data>
+      <data key="d7">2776</data>
+      <data key="d8">1327</data>
+      <data key="d0">217086184</data>
+      <data key="d9">False</data>
+      <data key="d10">76</data>
+      <data key="d11">Oostende</data>
+      <data key="d12">766</data>
+      <data key="d13">𝙱𝚓𝚘̈𝚛𝚗 𝙰𝚗𝚜𝚎𝚎𝚞𝚠</data>
+      <data key="d14">2776</data>
+      <data key="d15">False</data>
+      <data key="d16">bjanseeuw</data>
+      <data key="d17">5951</data>
+      <data key="d18">False</data>
+      <data key="d1">217086184</data>
+      <data key="d2">User</data>
+      <data key="d19">217086184</data>
+    </node>
+    <node id="896388">
+      <data key="d4">2011-01-12T10:26:57+00:00</data>
+      <data key="d5">federaal parlementslid N-VA #gezondheid #wetenschap #ruimtevaart tandarts-parodontoloog. PhD medische wetenschappen. eigen tweets.</data>
+      <data key="d6">3299</data>
+      <data key="d7">3047</data>
+      <data key="d8">1113</data>
+      <data key="d0">237217741</data>
+      <data key="d9">False</data>
+      <data key="d10">45</data>
+      <data key="d11">Oudsbergen, Limburg </data>
+      <data key="d12">377</data>
+      <data key="d13">Frieda Gijbels</data>
+      <data key="d14">3047</data>
+      <data key="d15">False</data>
+      <data key="d16">FriedaGijbels</data>
+      <data key="d17">3506</data>
+      <data key="d18">False</data>
+      <data key="d1">237217741</data>
+      <data key="d2">User</data>
+      <data key="d19">237217741</data>
+    </node>
+    <node id="896551">
+      <data key="d4">2018-06-22T05:28:10+00:00</data>
+      <data key="d5">Volksvertegenwoordiger in het federaal parlement // noodplanning &amp; crisisbeheer // groot ❤️ voor hulp- en veiligheidsdiensten</data>
+      <data key="d6">7372</data>
+      <data key="d7">1592</data>
+      <data key="d8">1461</data>
+      <data key="d0">1010031669024296960</data>
+      <data key="d9">False</data>
+      <data key="d10">27</data>
+      <data key="d11" />
+      <data key="d12">42</data>
+      <data key="d13">Yngvild Ingels</data>
+      <data key="d14">1592</data>
+      <data key="d15">False</data>
+      <data key="d16">Yngvild8</data>
+      <data key="d17">464</data>
+      <data key="d18">False</data>
+      <data key="d1">1010031669024296960</data>
+      <data key="d2">User</data>
+      <data key="d19">1010031669024296960</data>
+    </node>
+    <node id="896561">
+      <data key="d4">2013-02-15T18:33:16+00:00</data>
+      <data key="d5">Député Fédéral - Echevin à Koekelberg</data>
+      <data key="d6">1315</data>
+      <data key="d7">993</data>
+      <data key="d8">405</data>
+      <data key="d0">1183418838</data>
+      <data key="d9">False</data>
+      <data key="d10">34</data>
+      <data key="d11">Koekelberg - Bruxelles</data>
+      <data key="d12">62</data>
+      <data key="d13">Khalil Aouasti</data>
+      <data key="d14">993</data>
+      <data key="d15">False</data>
+      <data key="d16">KhalilAouasti</data>
+      <data key="d17">904</data>
+      <data key="d18">False</data>
+      <data key="d1">1183418838</data>
+      <data key="d2">User</data>
+      <data key="d19">1183418838</data>
+    </node>
+    <node id="896722">
+      <data key="d4">2018-02-27T18:50:27+00:00</data>
+      <data key="d5">Député fédéral - Bourgmestre d'Attert</data>
+      <data key="d6">1</data>
+      <data key="d7">243</data>
+      <data key="d8">135</data>
+      <data key="d0">968558966627295233</data>
+      <data key="d9">False</data>
+      <data key="d10">14</data>
+      <data key="d11">Attert, Belgique</data>
+      <data key="d12">4</data>
+      <data key="d13">Josy Arens</data>
+      <data key="d14">243</data>
+      <data key="d15">False</data>
+      <data key="d16">JosyArens</data>
+      <data key="d17">152</data>
+      <data key="d18">False</data>
+      <data key="d1">968558966627295233</data>
+      <data key="d2">User</data>
+      <data key="d19">968558966627295233</data>
+    </node>
+    <node id="896911">
+      <data key="d4">2014-11-13T10:37:10+00:00</data>
+      <data key="d5">Député-Bourgmestre de Chaudfontaine / Official Twitter account</data>
+      <data key="d6">819</data>
+      <data key="d7">5578</data>
+      <data key="d8">1098</data>
+      <data key="d0">2874908639</data>
+      <data key="d9">False</data>
+      <data key="d10">119</data>
+      <data key="d11">Chaudfontaine</data>
+      <data key="d12">1164</data>
+      <data key="d13">Daniel Bacquelaine</data>
+      <data key="d14">5578</data>
+      <data key="d15">False</data>
+      <data key="d16">DanBacquelaine</data>
+      <data key="d17">3119</data>
+      <data key="d18">False</data>
+      <data key="d1">2874908639</data>
+      <data key="d2">User</data>
+      <data key="d19">2874908639</data>
+    </node>
+    <node id="896984">
+      <data key="d4">2010-05-09T14:32:14+00:00</data>
+      <data key="d5">Député fédéral PTB</data>
+      <data key="d6">80</data>
+      <data key="d7">5173</data>
+      <data key="d8">286</data>
+      <data key="d0">141958841</data>
+      <data key="d9">False</data>
+      <data key="d10">77</data>
+      <data key="d11">Morlanwelz</data>
+      <data key="d12">410</data>
+      <data key="d13">Marco Van Hees</data>
+      <data key="d14">5173</data>
+      <data key="d15">False</data>
+      <data key="d16">Marco_VanHees</data>
+      <data key="d17">3835</data>
+      <data key="d18">False</data>
+      <data key="d1">141958841</data>
+      <data key="d2">User</data>
+      <data key="d19">141958841</data>
+    </node>
+    <node id="897019">
+      <data key="d4">2012-03-05T16:23:55+00:00</data>
+      <data key="d5">Federaal Volksvertegenwoordiger | Burgemeester Leopoldsburg | 🇪🇺Europees lijsttrekker @cdenv</data>
+      <data key="d6">2543</data>
+      <data key="d7">63627</data>
+      <data key="d8">1218</data>
+      <data key="d0">515620055</data>
+      <data key="d9">False</data>
+      <data key="d10">443</data>
+      <data key="d11">Leopoldsburg-Brussel</data>
+      <data key="d12">1895</data>
+      <data key="d13">Wouter Beke</data>
+      <data key="d14">63627</data>
+      <data key="d15">False</data>
+      <data key="d16">wbeke</data>
+      <data key="d17">9434</data>
+      <data key="d18">False</data>
+      <data key="d1">515620055</data>
+      <data key="d2">User</data>
+      <data key="d19">515620055</data>
+    </node>
+    <node id="897313">
+      <data key="d4">2013-10-13T19:16:51+00:00</data>
+      <data key="d5">Arbeider in het parlement voor PVDA | Oud-vakbondsafgevaardigde Ford Genk | Lid commissie Sociale Zaken | Gemeenteraadslid Genk | Strijd loont</data>
+      <data key="d6">292</data>
+      <data key="d7">1463</data>
+      <data key="d8">565</data>
+      <data key="d0">713166981</data>
+      <data key="d9">False</data>
+      <data key="d10">20</data>
+      <data key="d11">Genk, Belgium</data>
+      <data key="d12">104</data>
+      <data key="d13">Gaby Colebunders</data>
+      <data key="d14">1463</data>
+      <data key="d15">False</data>
+      <data key="d16">ColebundersGaby</data>
+      <data key="d17">894</data>
+      <data key="d18">False</data>
+      <data key="d1">713166981</data>
+      <data key="d2">User</data>
+      <data key="d19">713166981</data>
+    </node>
+    <node id="897654">
+      <data key="d4">2012-02-15T20:04:36+00:00</data>
+      <data key="d5">Député fédéral @MRChambre - Délégué général du @MR_officiel - Premier Échevin à #Neupré</data>
+      <data key="d6">16222</data>
+      <data key="d7">3921</data>
+      <data key="d8">494</data>
+      <data key="d0">493435270</data>
+      <data key="d9">False</data>
+      <data key="d10">113</data>
+      <data key="d11">Neupré</data>
+      <data key="d12">1021</data>
+      <data key="d13">Mathieu Bihet</data>
+      <data key="d14">3921</data>
+      <data key="d15">False</data>
+      <data key="d16">BIHETMathieu</data>
+      <data key="d17">28851</data>
+      <data key="d18">False</data>
+      <data key="d1">493435270</data>
+      <data key="d2">User</data>
+      <data key="d19">493435270</data>
+    </node>
+    <node id="897661">
+      <data key="d4">2010-04-29T09:28:23+00:00</data>
+      <data key="d5">Membre de la Chambre des Représentants 🇧🇪</data>
+      <data key="d6">1750</data>
+      <data key="d7">640</data>
+      <data key="d8">422</data>
+      <data key="d0">138354896</data>
+      <data key="d9">False</data>
+      <data key="d10">24</data>
+      <data key="d11">Waremme</data>
+      <data key="d12">167</data>
+      <data key="d13">Hervé Rigot</data>
+      <data key="d14">640</data>
+      <data key="d15">False</data>
+      <data key="d16">Herverigot</data>
+      <data key="d17">1679</data>
+      <data key="d18">False</data>
+      <data key="d1">138354896</data>
+      <data key="d2">User</data>
+      <data key="d19">138354896</data>
+    </node>
+    <node id="897687">
+      <data key="d4">2014-11-02T14:21:56+00:00</data>
+      <data key="d5">Présidente du MCC - Députée fédérale - Vice-présidente du @MR_officiel - Présidente de la Commission Finances et Budget de @LaChambreBE - Avocate</data>
+      <data key="d6">25678</data>
+      <data key="d7">8059</data>
+      <data key="d8">1579</data>
+      <data key="d0">2856838395</data>
+      <data key="d9">True</data>
+      <data key="d10">201</data>
+      <data key="d11">Tournai, Belgique</data>
+      <data key="d12">818</data>
+      <data key="d13">Marie Christine Marghem</data>
+      <data key="d14">8059</data>
+      <data key="d15">False</data>
+      <data key="d16">McMarghem</data>
+      <data key="d17">15470</data>
+      <data key="d18">False</data>
+      <data key="d1">2856838395</data>
+      <data key="d2">User</data>
+      <data key="d19">2856838395</data>
+    </node>
+    <node id="897807">
+      <data key="d4">2008-12-28T08:51:52+00:00</data>
+      <data key="d5" />
+      <data key="d6">10991</data>
+      <data key="d7">13474</data>
+      <data key="d8">1066</data>
+      <data key="d0">18424692</data>
+      <data key="d9">True</data>
+      <data key="d10">228</data>
+      <data key="d11" />
+      <data key="d12">494</data>
+      <data key="d13">Hendrik Bogaert</data>
+      <data key="d14">13474</data>
+      <data key="d15">False</data>
+      <data key="d16">hendrikbogaert</data>
+      <data key="d17">2965</data>
+      <data key="d18">False</data>
+      <data key="d1">18424692</data>
+      <data key="d2">User</data>
+      <data key="d19">18424692</data>
+    </node>
+    <node id="898325">
+      <data key="d4">2014-05-17T19:31:59+00:00</data>
+      <data key="d5">Député fédéral PTB</data>
+      <data key="d6">617</data>
+      <data key="d7">1855</data>
+      <data key="d8">155</data>
+      <data key="d0">2502350551</data>
+      <data key="d9">False</data>
+      <data key="d10">0</data>
+      <data key="d11" />
+      <data key="d12">255</data>
+      <data key="d13">Nabil Boukili</data>
+      <data key="d14">1855</data>
+      <data key="d15">False</data>
+      <data key="d16">N_Boukili</data>
+      <data key="d17">989</data>
+      <data key="d18">False</data>
+      <data key="d1">2502350551</data>
+      <data key="d2">User</data>
+      <data key="d19">2502350551</data>
+    </node>
+    <node id="898332">
+      <data key="d4">2011-12-16T12:58:29+00:00</data>
+      <data key="d5">algemeen secretaris PVDA, secrétaire général du PTB, general secretary PVDA-PTB (Belgium), member of parliament, auteur 'Muiterij', 'Mutinerie'</data>
+      <data key="d6">683</data>
+      <data key="d7">24086</data>
+      <data key="d8">1646</data>
+      <data key="d0">438317752</data>
+      <data key="d9">False</data>
+      <data key="d10">245</data>
+      <data key="d11">Antwerpen</data>
+      <data key="d12">1982</data>
+      <data key="d13">Peter Mertens MP</data>
+      <data key="d14">24086</data>
+      <data key="d15">False</data>
+      <data key="d16">peter_mertens</data>
+      <data key="d17">9881</data>
+      <data key="d18">False</data>
+      <data key="d1">438317752</data>
+      <data key="d2">User</data>
+      <data key="d19">438317752</data>
+    </node>
+    <node id="898387">
+      <data key="d4">2013-08-22T09:34:01+00:00</data>
+      <data key="d5">Federaal Volksvertegenwoordiger &amp; Eregouverneur van de provincie Oost-Vlaanderen. Een hart voor muziek(festivals). Bruggenbouwer.</data>
+      <data key="d6">1641</data>
+      <data key="d7">2559</data>
+      <data key="d8">501</data>
+      <data key="d0">1690562936</data>
+      <data key="d9">False</data>
+      <data key="d10">45</data>
+      <data key="d11">Gent, België</data>
+      <data key="d12">478</data>
+      <data key="d13">Jan Briers</data>
+      <data key="d14">2559</data>
+      <data key="d15">False</data>
+      <data key="d16">JanBriersGouv</data>
+      <data key="d17">2609</data>
+      <data key="d18">False</data>
+      <data key="d1">1690562936</data>
+      <data key="d2">User</data>
+      <data key="d19">1690562936</data>
+    </node>
+    <node id="898685">
+      <data key="d4">2010-12-04T19:36:41+00:00</data>
+      <data key="d5">Possibilist. Volksvertegenwoordiger @ecolo @groen. Gemeenteraad #Mechelen &amp; voorzitter Mechelen Feest.</data>
+      <data key="d6">6917</data>
+      <data key="d7">57694</data>
+      <data key="d8">2791</data>
+      <data key="d0">222893593</data>
+      <data key="d9">False</data>
+      <data key="d10">420</data>
+      <data key="d11">Mechelen, België</data>
+      <data key="d12">1314</data>
+      <data key="d13">Kristof Calvo</data>
+      <data key="d14">57694</data>
+      <data key="d15">False</data>
+      <data key="d16">kristofcalvo</data>
+      <data key="d17">19463</data>
+      <data key="d18">False</data>
+      <data key="d1">222893593</data>
+      <data key="d2">User</data>
+      <data key="d19">222893593</data>
+    </node>
+    <node id="898733">
+      <data key="d4">2009-05-17T20:06:45+00:00</data>
+      <data key="d5">Député à la Chambre des Représentants @ecolo @groenCommissions Défense / Relations Extérieures / Passé colonialV-P de la Commission des Achats militaires</data>
+      <data key="d6">2646</data>
+      <data key="d7">1559</data>
+      <data key="d8">856</data>
+      <data key="d0">40726251</data>
+      <data key="d9">False</data>
+      <data key="d10">50</data>
+      <data key="d11">Bruxelles</data>
+      <data key="d12">119</data>
+      <data key="d13">Guillaume Defossé</data>
+      <data key="d14">1559</data>
+      <data key="d15">False</data>
+      <data key="d16">GuillaumeDef</data>
+      <data key="d17">7831</data>
+      <data key="d18">False</data>
+      <data key="d1">40726251</data>
+      <data key="d2">User</data>
+      <data key="d19">40726251</data>
+    </node>
+    <node id="898736">
+      <data key="d4">2014-02-24T13:47:38+00:00</data>
+      <data key="d5">Député fédéral Ecolo tourné vers le 🌎 et vers les suivants. Justice, liberté et utopie :)(Clichés...)</data>
+      <data key="d6">1608</data>
+      <data key="d7">2900</data>
+      <data key="d8">704</data>
+      <data key="d0">2359526718</data>
+      <data key="d9">False</data>
+      <data key="d10">47</data>
+      <data key="d11">Ottignies-Louvain-la-Neuve, Be</data>
+      <data key="d12">147</data>
+      <data key="d13">Simon Moutquin</data>
+      <data key="d14">2900</data>
+      <data key="d15">False</data>
+      <data key="d16">SimonMoutquin</data>
+      <data key="d17">1839</data>
+      <data key="d18">False</data>
+      <data key="d1">2359526718</data>
+      <data key="d2">User</data>
+      <data key="d19">2359526718</data>
+    </node>
+    <node id="898928">
+      <data key="d4">2021-10-14T07:44:29+00:00</data>
+      <data key="d5">Député fédéral Écolo</data>
+      <data key="d6">315</data>
+      <data key="d7">93</data>
+      <data key="d8">165</data>
+      <data key="d0">1448555214714413061</data>
+      <data key="d9">False</data>
+      <data key="d10">6</data>
+      <data key="d11">Belgium</data>
+      <data key="d12">1</data>
+      <data key="d13">Olivier Vajda</data>
+      <data key="d14">93</data>
+      <data key="d15">False</data>
+      <data key="d16">olivier_vajda</data>
+      <data key="d17">154</data>
+      <data key="d18">False</data>
+      <data key="d1">1448555214714413061</data>
+      <data key="d2">User</data>
+      <data key="d19">1448555214714413061</data>
+    </node>
+    <node id="898938">
+      <data key="d4">2019-11-08T12:36:58+00:00</data>
+      <data key="d5">Députée Fédérale - Ecolo / Groen</data>
+      <data key="d6">5145</data>
+      <data key="d7">1329</data>
+      <data key="d8">365</data>
+      <data key="d0">1192783021965021184</data>
+      <data key="d9">False</data>
+      <data key="d10">42</data>
+      <data key="d11" />
+      <data key="d12">55</data>
+      <data key="d13">Séverine de Laveleye</data>
+      <data key="d14">1329</data>
+      <data key="d15">False</data>
+      <data key="d16">SLaveleye</data>
+      <data key="d17">1230</data>
+      <data key="d18">False</data>
+      <data key="d1">1192783021965021184</data>
+      <data key="d2">User</data>
+      <data key="d19">1192783021965021184</data>
+    </node>
+    <node id="898951">
+      <data key="d4">2013-03-06T10:05:58+00:00</data>
+      <data key="d5">Député Fédéral de Bruxelles - Bourgmestre de Saint-Josse</data>
+      <data key="d6">14248</data>
+      <data key="d7">4688</data>
+      <data key="d8">612</data>
+      <data key="d0">1245744524</data>
+      <data key="d9">False</data>
+      <data key="d10">135</data>
+      <data key="d11">Bruxelles</data>
+      <data key="d12">913</data>
+      <data key="d13">Emir KIR</data>
+      <data key="d14">4688</data>
+      <data key="d15">False</data>
+      <data key="d16">emir_kir</data>
+      <data key="d17">6340</data>
+      <data key="d18">False</data>
+      <data key="d1">1245744524</data>
+      <data key="d2">User</data>
+      <data key="d19">1245744524</data>
+    </node>
+    <node id="899102">
+      <data key="d4">2010-05-05T17:42:39+00:00</data>
+      <data key="d5">Federaal parlementslid CD&amp;V | Nationaal ondervoorzitter | Volgt Volksgezondheid en Arbeidsmarkt. In Roeselare, bevoegd voor stadsontwikkeling en onderwijs</data>
+      <data key="d6">334</data>
+      <data key="d7">3655</data>
+      <data key="d8">1217</data>
+      <data key="d0">140510920</data>
+      <data key="d9">False</data>
+      <data key="d10">69</data>
+      <data key="d11">Roeselare, België</data>
+      <data key="d12">247</data>
+      <data key="d13">Nathalie Muylle</data>
+      <data key="d14">3655</data>
+      <data key="d15">False</data>
+      <data key="d16">nathaliemuylle</data>
+      <data key="d17">1061</data>
+      <data key="d18">False</data>
+      <data key="d1">140510920</data>
+      <data key="d2">User</data>
+      <data key="d19">140510920</data>
+    </node>
+    <node id="899326">
+      <data key="d4">2015-08-23T08:50:00+00:00</data>
+      <data key="d5">Federaal parlementslid CD&amp;V</data>
+      <data key="d6">8943</data>
+      <data key="d7">2744</data>
+      <data key="d8">1296</data>
+      <data key="d0">3436535536</data>
+      <data key="d9">False</data>
+      <data key="d10">32</data>
+      <data key="d11" />
+      <data key="d12">173</data>
+      <data key="d13">NawalFarih</data>
+      <data key="d14">2744</data>
+      <data key="d15">False</data>
+      <data key="d16">NawalFarih</data>
+      <data key="d17">1904</data>
+      <data key="d18">False</data>
+      <data key="d1">3436535536</data>
+      <data key="d2">User</data>
+      <data key="d19">3436535536</data>
+    </node>
+    <node id="899420">
+      <data key="d4">2009-09-18T16:00:47+00:00</data>
+      <data key="d5">𝟑 è𝐦𝐞 à 𝐥𝐚 𝐂𝐡𝐚𝐦𝐛𝐫𝐞 - Chef de file MR de #Charleroi❤️ - Député Fédéral - Ancien Ministre des Indépendants &amp; PME et de l'Intégration sociale</data>
+      <data key="d6">4601</data>
+      <data key="d7">20219</data>
+      <data key="d8">14304</data>
+      <data key="d0">75315061</data>
+      <data key="d9">False</data>
+      <data key="d10">224</data>
+      <data key="d11">Charleroi</data>
+      <data key="d12">1192</data>
+      <data key="d13">Denis Ducarme</data>
+      <data key="d14">20219</data>
+      <data key="d15">False</data>
+      <data key="d16">ducarmedenis</data>
+      <data key="d17">5338</data>
+      <data key="d18">False</data>
+      <data key="d1">75315061</data>
+      <data key="d2">User</data>
+      <data key="d19">75315061</data>
+    </node>
+    <node id="899590">
+      <data key="d4">2013-03-11T13:26:35+00:00</data>
+      <data key="d5">Voorzitter CD&amp;V-Kamerfractie - gewezen Staatssecretaris</data>
+      <data key="d6">2017</data>
+      <data key="d7">6028</data>
+      <data key="d8">893</data>
+      <data key="d0">1259463008</data>
+      <data key="d9">False</data>
+      <data key="d10">105</data>
+      <data key="d11">Mol - Brussel</data>
+      <data key="d12">357</data>
+      <data key="d13">Servais Verherstraeten</data>
+      <data key="d14">6028</data>
+      <data key="d15">False</data>
+      <data key="d16">ServaisV</data>
+      <data key="d17">2733</data>
+      <data key="d18">False</data>
+      <data key="d1">1259463008</data>
+      <data key="d2">User</data>
+      <data key="d19">1259463008</data>
+    </node>
+    <node id="899767">
+      <data key="d4">2017-11-17T12:06:09+00:00</data>
+      <data key="d5">Voorzitter Vooruit  - Fractieleider GR Harelbeke</data>
+      <data key="d6">4932</data>
+      <data key="d7">7176</data>
+      <data key="d8">348</data>
+      <data key="d0">931493658620235776</data>
+      <data key="d9">False</data>
+      <data key="d10">59</data>
+      <data key="d11">Harelbeke, België</data>
+      <data key="d12">93</data>
+      <data key="d13">Melissa Depraetere</data>
+      <data key="d14">7176</data>
+      <data key="d15">False</data>
+      <data key="d16">MelissaDepr</data>
+      <data key="d17">1701</data>
+      <data key="d18">False</data>
+      <data key="d1">931493658620235776</data>
+      <data key="d2">User</data>
+      <data key="d19">931493658620235776</data>
+    </node>
+    <node id="899775">
+      <data key="d4">2013-09-10T11:24:17+00:00</data>
+      <data key="d5">🏛️ Députée fédérale DéFI 🚺 Présidente du Conseil des femmes francophones de Belgique  🇧🇪 Conseillère communale et de police</data>
+      <data key="d6">11235</data>
+      <data key="d7">5100</data>
+      <data key="d8">1360</data>
+      <data key="d0">1851210716</data>
+      <data key="d9">False</data>
+      <data key="d10">67</data>
+      <data key="d11">Rhode-Saint-Genèse, Belgium</data>
+      <data key="d12">1340</data>
+      <data key="d13">Sophie Rohonyi</data>
+      <data key="d14">5100</data>
+      <data key="d15">False</data>
+      <data key="d16">SophieRohonyi</data>
+      <data key="d17">10065</data>
+      <data key="d18">False</data>
+      <data key="d1">1851210716</data>
+      <data key="d2">User</data>
+      <data key="d19">1851210716</data>
+    </node>
+    <node id="1017794">
+      <data key="d0">VB</data>
+      <data key="d1">VB</data>
+      <data key="d2">Party</data>
+      <data key="d3">VB</data>
+    </node>
+    <node id="899832">
+      <data key="d4">2010-02-01T21:44:23+00:00</data>
+      <data key="d5">Vlaams Belang - Lijsttrekker Kamer West-Vlaanderen - Volksvertegenwoordiger - Ondervoorzitter Kamerfractie - Fractieleider Kortrijk</data>
+      <data key="d6">2191</data>
+      <data key="d7">2207</data>
+      <data key="d8">327</data>
+      <data key="d0">110529625</data>
+      <data key="d9">False</data>
+      <data key="d10">26</data>
+      <data key="d11">Kortrijk</data>
+      <data key="d12">960</data>
+      <data key="d13">Wouter Vermeersch</data>
+      <data key="d14">2207</data>
+      <data key="d15">False</data>
+      <data key="d16">WouterVermeersc</data>
+      <data key="d17">4800</data>
+      <data key="d18">False</data>
+      <data key="d1">110529625</data>
+      <data key="d2">User</data>
+      <data key="d19">110529625</data>
+    </node>
+    <node id="899897">
+      <data key="d4">2009-12-17T16:30:24+00:00</data>
+      <data key="d5">Ondervoorzitter @vlbelang - Fractievoorzitter @DeKamerBE en @StadDendermonde</data>
+      <data key="d6">25538</data>
+      <data key="d7">17490</data>
+      <data key="d8">663</data>
+      <data key="d0">97476338</data>
+      <data key="d9">True</data>
+      <data key="d10">131</data>
+      <data key="d11" />
+      <data key="d12">587</data>
+      <data key="d13">Barbara Pas</data>
+      <data key="d14">17490</data>
+      <data key="d15">False</data>
+      <data key="d16">Barbara_Pas</data>
+      <data key="d17">12911</data>
+      <data key="d18">False</data>
+      <data key="d1">97476338</data>
+      <data key="d2">User</data>
+      <data key="d19">97476338</data>
+    </node>
+    <node id="899963">
+      <data key="d4">2013-02-04T14:10:38+00:00</data>
+      <data key="d5">De gedachten zijn vrij. Nationalist. Traditionalist. Identitair. Volksvertegenwoordiger @vlbelang - Voorzitter commissie Binnenlandse Zaken - GR-lid Deinze</data>
+      <data key="d6">9984</data>
+      <data key="d7">3418</data>
+      <data key="d8">2223</data>
+      <data key="d0">1148114702</data>
+      <data key="d9">True</data>
+      <data key="d10">27</data>
+      <data key="d11" />
+      <data key="d12">394</data>
+      <data key="d13">Ortwin Depoortere</data>
+      <data key="d14">3418</data>
+      <data key="d15">False</data>
+      <data key="d16">OrtwinDepo</data>
+      <data key="d17">3746</data>
+      <data key="d18">False</data>
+      <data key="d1">1148114702</data>
+      <data key="d2">User</data>
+      <data key="d19">1148114702</data>
+    </node>
+    <node id="899965">
+      <data key="d4">2012-01-21T19:51:56+00:00</data>
+      <data key="d5">Député fédéral 🇧🇪 ecolo+ jeune député de la ChambreDéraisonnablement geek ⌨️🖱Un peu trop intéressé par le ☕️#choisirlavenir 🌿</data>
+      <data key="d6">1913</data>
+      <data key="d7">230</data>
+      <data key="d8">300</data>
+      <data key="d0">470460837</data>
+      <data key="d9">False</data>
+      <data key="d10">4</data>
+      <data key="d11">Tournai, Belgique</data>
+      <data key="d12">21</data>
+      <data key="d13">Louis Mariage</data>
+      <data key="d14">230</data>
+      <data key="d15">False</data>
+      <data key="d16">MariageLouis</data>
+      <data key="d17">289</data>
+      <data key="d18">False</data>
+      <data key="d1">470460837</data>
+      <data key="d2">User</data>
+      <data key="d19">470460837</data>
+    </node>
+    <node id="900066">
+      <data key="d4">2015-03-11T10:08:49+00:00</data>
+      <data key="d5">Député fédéral @Ecolo | Président du groupe 🇧🇪 @IPUparliament | PhD in international law @KU_Leuven</data>
+      <data key="d6">20447</data>
+      <data key="d7">6039</data>
+      <data key="d8">6312</data>
+      <data key="d0">3086239053</data>
+      <data key="d9">False</data>
+      <data key="d10">79</data>
+      <data key="d11">Huy, Belgique</data>
+      <data key="d12">429</data>
+      <data key="d13">Samuel Cogolati</data>
+      <data key="d14">6039</data>
+      <data key="d15">False</data>
+      <data key="d16">SamuelCogolati</data>
+      <data key="d17">3807</data>
+      <data key="d18">False</data>
+      <data key="d1">3086239053</data>
+      <data key="d2">User</data>
+      <data key="d19">3086239053</data>
+    </node>
+    <node id="900075">
+      <data key="d4">2019-03-03T18:38:36+00:00</data>
+      <data key="d5">Députée fédérale Bourgmestre de Courcelles</data>
+      <data key="d6">3390</data>
+      <data key="d7">1613</data>
+      <data key="d8">1504</data>
+      <data key="d0">1102277106329968642</data>
+      <data key="d9">False</data>
+      <data key="d10">27</data>
+      <data key="d11">Courcelles, Belgique</data>
+      <data key="d12">76</data>
+      <data key="d13">Caroline Taquin</data>
+      <data key="d14">1613</data>
+      <data key="d15">False</data>
+      <data key="d16">TaquinCaroline</data>
+      <data key="d17">1256</data>
+      <data key="d18">False</data>
+      <data key="d1">1102277106329968642</data>
+      <data key="d2">User</data>
+      <data key="d19">1102277106329968642</data>
+    </node>
+    <node id="900264">
+      <data key="d4">2014-07-23T18:58:43+00:00</data>
+      <data key="d5">Député fédéral belge - Bourgmestre (Wanze) - Rapporteur général droits LGBTI (Assemblée parlementaire du Conseil de l’Europe)</data>
+      <data key="d6">1027</data>
+      <data key="d7">3566</data>
+      <data key="d8">1921</data>
+      <data key="d0">2722025873</data>
+      <data key="d9">False</data>
+      <data key="d10">75</data>
+      <data key="d11">Wanze ( Province de Liėge )</data>
+      <data key="d12">97</data>
+      <data key="d13">Christophe Lacroix</data>
+      <data key="d14">3566</data>
+      <data key="d15">False</data>
+      <data key="d16">LacroixCh</data>
+      <data key="d17">2963</data>
+      <data key="d18">False</data>
+      <data key="d1">2722025873</data>
+      <data key="d2">User</data>
+      <data key="d19">2722025873</data>
+    </node>
+    <node id="900424">
+      <data key="d4">2011-09-28T14:37:03+00:00</data>
+      <data key="d5">Député fédéral / Socialiste / Comme le veut la formule consacrée, mes tweets n'engagent que moi...</data>
+      <data key="d6">5278</data>
+      <data key="d7">4275</data>
+      <data key="d8">969</data>
+      <data key="d0">381549171</data>
+      <data key="d9">False</data>
+      <data key="d10">75</data>
+      <data key="d11">Soignies, Belgique</data>
+      <data key="d12">443</data>
+      <data key="d13">Patrick Prévot</data>
+      <data key="d14">4275</data>
+      <data key="d15">False</data>
+      <data key="d16">PPrevot</data>
+      <data key="d17">9346</data>
+      <data key="d18">False</data>
+      <data key="d1">381549171</data>
+      <data key="d2">User</data>
+      <data key="d19">381549171</data>
+    </node>
+    <node id="901417">
+      <data key="d4">2012-05-29T14:32:01+00:00</data>
+      <data key="d5">Ministre d'État 🇧🇪, Député fédéral @PSofficiel et Président honoraire de @LaChambreBE, ex-Ministre de la @BelgiumDefence (1999-2007)</data>
+      <data key="d6">4075</data>
+      <data key="d7">14434</data>
+      <data key="d8">5582</data>
+      <data key="d0">593757874</data>
+      <data key="d9">False</data>
+      <data key="d10">143</data>
+      <data key="d11">Nivelles, Brabant wallon</data>
+      <data key="d12">1825</data>
+      <data key="d13">André Flahaut</data>
+      <data key="d14">14434</data>
+      <data key="d15">False</data>
+      <data key="d16">andreflahaut</data>
+      <data key="d17">5421</data>
+      <data key="d18">False</data>
+      <data key="d1">593757874</data>
+      <data key="d2">User</data>
+      <data key="d19">593757874</data>
+    </node>
+    <node id="901608">
+      <data key="d4">2012-07-25T13:32:27+00:00</data>
+      <data key="d5">Députée fédérale Ecolo. Justice, prisons et droits humains. Cycliste, féministe, germaniste, violoniste, juriste.</data>
+      <data key="d6">5862</data>
+      <data key="d7">1217</data>
+      <data key="d8">686</data>
+      <data key="d0">716071032</data>
+      <data key="d9">False</data>
+      <data key="d10">33</data>
+      <data key="d11">Bruxelles, Belgique</data>
+      <data key="d12">147</data>
+      <data key="d13">Claire Hugon</data>
+      <data key="d14">1217</data>
+      <data key="d15">False</data>
+      <data key="d16">claire_hugon</data>
+      <data key="d17">1737</data>
+      <data key="d18">False</data>
+      <data key="d1">716071032</data>
+      <data key="d2">User</data>
+      <data key="d19">716071032</data>
+    </node>
+    <node id="901620">
+      <data key="d4">2021-04-09T09:05:33+00:00</data>
+      <data key="d5">Voorzitter @vlbelang - volksvertegenwoordiger @DeKamerBE - Gemeenteraadslid @gemSchoten (BACKUP PROFIEL)</data>
+      <data key="d6">16</data>
+      <data key="d7">2221</data>
+      <data key="d8">412</data>
+      <data key="d0">1380446707352281091</data>
+      <data key="d9">False</data>
+      <data key="d10">6</data>
+      <data key="d11" />
+      <data key="d12">7</data>
+      <data key="d13">Tom Van Grieken (BACKUP PROFIEL)</data>
+      <data key="d14">2221</data>
+      <data key="d15">False</data>
+      <data key="d16">vangriekentom</data>
+      <data key="d17">18</data>
+      <data key="d18">False</data>
+      <data key="d1">1380446707352281091</data>
+      <data key="d2">User</data>
+      <data key="d19">1380446707352281091</data>
+    </node>
+    <node id="902357">
+      <data key="d4">2015-03-06T15:13:27+00:00</data>
+      <data key="d5">Député fédéral</data>
+      <data key="d6">1324</data>
+      <data key="d7">1014</data>
+      <data key="d8">699</data>
+      <data key="d0">3074970471</data>
+      <data key="d9">False</data>
+      <data key="d10">38</data>
+      <data key="d11">Viroinval ( Oignies )</data>
+      <data key="d12">22</data>
+      <data key="d13">Jean-Marc Delizée</data>
+      <data key="d14">1014</data>
+      <data key="d15">False</data>
+      <data key="d16">jmdelizee</data>
+      <data key="d17">893</data>
+      <data key="d18">False</data>
+      <data key="d1">3074970471</data>
+      <data key="d2">User</data>
+      <data key="d19">3074970471</data>
+    </node>
+    <node id="902358">
+      <data key="d4">2021-01-19T18:49:23+00:00</data>
+      <data key="d5">Syndicaliste, moeder, feministe en federaal parlementslid. Megafoon voor de werkende klasse voor de PVDA vanuit Brussel.</data>
+      <data key="d6">852</data>
+      <data key="d7">844</data>
+      <data key="d8">284</data>
+      <data key="d0">1351602609958891521</data>
+      <data key="d9">False</data>
+      <data key="d10">14</data>
+      <data key="d11" />
+      <data key="d12">237</data>
+      <data key="d13">Maria Vindevoghel</data>
+      <data key="d14">844</data>
+      <data key="d15">False</data>
+      <data key="d16">MariaVindevogh1</data>
+      <data key="d17">863</data>
+      <data key="d18">False</data>
+      <data key="d1">1351602609958891521</data>
+      <data key="d2">User</data>
+      <data key="d19">1351602609958891521</data>
+    </node>
+    <node id="902499">
+      <data key="d4">2009-03-30T11:30:16+00:00</data>
+      <data key="d5">Kamerlid - Burgemeester van Tongeren - Open Vld</data>
+      <data key="d6">53</data>
+      <data key="d7">17682</data>
+      <data key="d8">149</data>
+      <data key="d0">27620218</data>
+      <data key="d9">False</data>
+      <data key="d10">314</data>
+      <data key="d11">Brussels</data>
+      <data key="d12">31</data>
+      <data key="d13">Patrick Dewael</data>
+      <data key="d14">17682</data>
+      <data key="d15">False</data>
+      <data key="d16">PatrickDewael</data>
+      <data key="d17">449</data>
+      <data key="d18">False</data>
+      <data key="d1">27620218</data>
+      <data key="d2">User</data>
+      <data key="d19">27620218</data>
+    </node>
+    <node id="902748">
+      <data key="d4">2013-04-17T07:04:07+00:00</data>
+      <data key="d5">Federaal volksvertegenwoordiger voor #Limburg. Fractievoorzitter @NVABilzen @StadBilzen 🦁 🐝 Tweet in eigen naam</data>
+      <data key="d6">3023</data>
+      <data key="d7">2084</data>
+      <data key="d8">969</data>
+      <data key="d0">1358793595</data>
+      <data key="d9">False</data>
+      <data key="d10">49</data>
+      <data key="d11">Bilzen-Hoeselt</data>
+      <data key="d12">527</data>
+      <data key="d13">wouter raskin</data>
+      <data key="d14">2084</data>
+      <data key="d15">False</data>
+      <data key="d16">RaskinWouter</data>
+      <data key="d17">5029</data>
+      <data key="d18">False</data>
+      <data key="d1">1358793595</data>
+      <data key="d2">User</data>
+      <data key="d19">1358793595</data>
+    </node>
+    <node id="903097">
+      <data key="d4">2012-04-19T10:55:36+00:00</data>
+      <data key="d5">Mama | Burgemeester van #Berlare | Federaal volksvertegenwoordiger  #commissiejustitieMet #liberaalvuur voor vrijheid, veiligheid en rechtvaardigheid!</data>
+      <data key="d6">993</data>
+      <data key="d7">938</data>
+      <data key="d8">665</data>
+      <data key="d0">557697570</data>
+      <data key="d9">False</data>
+      <data key="d10">30</data>
+      <data key="d11">Berlare - Brussel</data>
+      <data key="d12">65</data>
+      <data key="d13">Katja Gabriëls</data>
+      <data key="d14">938</data>
+      <data key="d15">False</data>
+      <data key="d16">katja_gabriels</data>
+      <data key="d17">726</data>
+      <data key="d18">False</data>
+      <data key="d1">557697570</data>
+      <data key="d2">User</data>
+      <data key="d19">557697570</data>
+    </node>
+    <node id="903414">
+      <data key="d4">2013-01-24T17:31:43+00:00</data>
+      <data key="d5">🇧🇪 🌍 Member of the Parliament - Citizen of the World</data>
+      <data key="d6">2277</data>
+      <data key="d7">14672</data>
+      <data key="d8">645</data>
+      <data key="d0">1117307676</data>
+      <data key="d9">False</data>
+      <data key="d10">170</data>
+      <data key="d11" />
+      <data key="d12">376</data>
+      <data key="d13">Meryame Kitir</data>
+      <data key="d14">14672</data>
+      <data key="d15">False</data>
+      <data key="d16">MeryameKitir</data>
+      <data key="d17">1676</data>
+      <data key="d18">False</data>
+      <data key="d1">1117307676</data>
+      <data key="d2">User</data>
+      <data key="d19">1117307676</data>
+    </node>
+    <node id="903454">
+      <data key="d4">2019-06-18T16:53:23+00:00</data>
+      <data key="d5">Kamerlid, Limburger, wereldburger.  Lid van de commissies Energie &amp; Klimaat en Landsverdediging voor @vooruit_nu</data>
+      <data key="d6">1360</data>
+      <data key="d7">930</data>
+      <data key="d8">223</data>
+      <data key="d0">1141026131484774400</data>
+      <data key="d9">False</data>
+      <data key="d10">27</data>
+      <data key="d11">Lommel, België</data>
+      <data key="d12">107</data>
+      <data key="d13">Kris Verduyckt</data>
+      <data key="d14">930</data>
+      <data key="d15">False</data>
+      <data key="d16">kris_verduyckt</data>
+      <data key="d17">798</data>
+      <data key="d18">False</data>
+      <data key="d1">1141026131484774400</data>
+      <data key="d2">User</data>
+      <data key="d19">1141026131484774400</data>
+    </node>
+    <node id="903572">
+      <data key="d4">2009-05-27T10:21:51+00:00</data>
+      <data key="d5">Plaats 2 Federaal parlement Vooruit OVL - Werk/Sociale Zekerheid/Openbare diensten - Boon voor de Denderstreek ❤️</data>
+      <data key="d6">15537</data>
+      <data key="d7">1978</data>
+      <data key="d8">1626</data>
+      <data key="d0">42855132</data>
+      <data key="d9">False</data>
+      <data key="d10">61</data>
+      <data key="d11">Aalst</data>
+      <data key="d12">957</data>
+      <data key="d13">Anja Vanrobaeys</data>
+      <data key="d14">1978</data>
+      <data key="d15">False</data>
+      <data key="d16">AnjaVanrobaeys</data>
+      <data key="d17">7455</data>
+      <data key="d18">False</data>
+      <data key="d1">42855132</data>
+      <data key="d2">User</data>
+      <data key="d19">42855132</data>
+    </node>
+    <node id="903589">
+      <data key="d4">2014-03-28T14:31:38+00:00</data>
+      <data key="d5">N-VA Politicus - Kamerlid - Gemeenteraadslid Bonheiden/Rijmenam - Advocaat</data>
+      <data key="d6">35705</data>
+      <data key="d7">2563</data>
+      <data key="d8">3125</data>
+      <data key="d0">2442196564</data>
+      <data key="d9">False</data>
+      <data key="d10">41</data>
+      <data key="d11">Vlaanderen</data>
+      <data key="d12">159</data>
+      <data key="d13">Wim Van der Donckt</data>
+      <data key="d14">2563</data>
+      <data key="d15">False</data>
+      <data key="d16">vanderdoncktwim</data>
+      <data key="d17">3129</data>
+      <data key="d18">False</data>
+      <data key="d1">2442196564</data>
+      <data key="d2">User</data>
+      <data key="d19">2442196564</data>
+    </node>
+    <node id="903755">
+      <data key="d4">2013-04-16T08:09:32+00:00</data>
+      <data key="d5">Kamerlid N-VA, fractieleider N-VA Gent, mama van Mattias en Jasmijn</data>
+      <data key="d6">748</data>
+      <data key="d7">6869</data>
+      <data key="d8">386</data>
+      <data key="d0">1356343460</data>
+      <data key="d9">False</data>
+      <data key="d10">162</data>
+      <data key="d11">Gent</data>
+      <data key="d12">393</data>
+      <data key="d13">Anneleen Van Bossuyt</data>
+      <data key="d14">6869</data>
+      <data key="d15">False</data>
+      <data key="d16">anneleen_vb</data>
+      <data key="d17">1825</data>
+      <data key="d18">False</data>
+      <data key="d1">1356343460</data>
+      <data key="d2">User</data>
+      <data key="d19">1356343460</data>
+    </node>
+    <node id="903768">
+      <data key="d4">2021-10-17T20:05:16+00:00</data>
+      <data key="d5" />
+      <data key="d6">134</data>
+      <data key="d7">4</data>
+      <data key="d8">16</data>
+      <data key="d0">1449828837177626628</data>
+      <data key="d9">False</data>
+      <data key="d10">0</data>
+      <data key="d11" />
+      <data key="d12">0</data>
+      <data key="d13">Chanson julie</data>
+      <data key="d14">4</data>
+      <data key="d15">False</data>
+      <data key="d16">ChansonJulie</data>
+      <data key="d17">43</data>
+      <data key="d18">False</data>
+      <data key="d1">1449828837177626628</data>
+      <data key="d2">User</data>
+      <data key="d19">1449828837177626628</data>
+    </node>
+    <node id="903983">
+      <data key="d4">2013-04-16T14:02:37+00:00</data>
+      <data key="d5">Président « Les Engagés », Député-Bourgmestre de @VilledeNamur</data>
+      <data key="d6">219</data>
+      <data key="d7">11253</data>
+      <data key="d8">943</data>
+      <data key="d0">1356960020</data>
+      <data key="d9">True</data>
+      <data key="d10">175</data>
+      <data key="d11">Namur, Belgium</data>
+      <data key="d12">73</data>
+      <data key="d13">Maxime PREVOT</data>
+      <data key="d14">11253</data>
+      <data key="d15">False</data>
+      <data key="d16">prevotmaxime</data>
+      <data key="d17">642</data>
+      <data key="d18">False</data>
+      <data key="d1">1356960020</data>
+      <data key="d2">User</data>
+      <data key="d19">1356960020</data>
+    </node>
+    <node id="904235">
+      <data key="d4">2012-03-06T15:50:06+00:00</data>
+      <data key="d5">Lead candidate MR for the 2024 EU elections 🇪🇺 Served in 5 governments in different positions, including Prime minister 🇧🇪 Liberal and mother of 4</data>
+      <data key="d6">1096</data>
+      <data key="d7">88823</data>
+      <data key="d8">1317</data>
+      <data key="d0">516626068</data>
+      <data key="d9">False</data>
+      <data key="d10">501</data>
+      <data key="d11">Belgique</data>
+      <data key="d12">1695</data>
+      <data key="d13">Sophie Wilmès</data>
+      <data key="d14">88823</data>
+      <data key="d15">False</data>
+      <data key="d16">Sophie_Wilmes</data>
+      <data key="d17">3310</data>
+      <data key="d18">False</data>
+      <data key="d1">516626068</data>
+      <data key="d2">User</data>
+      <data key="d19">516626068</data>
+    </node>
+    <node id="904341">
+      <data key="d4">2010-05-16T14:48:30+00:00</data>
+      <data key="d5">@Groen - Member of Parliament (MP) / Belgium / Fractieleider Ecolo-Groen - Voorzitter Gemeenteraad Oostende</data>
+      <data key="d6">5699</data>
+      <data key="d7">16195</data>
+      <data key="d8">1108</data>
+      <data key="d0">144519396</data>
+      <data key="d9">False</data>
+      <data key="d10">244</data>
+      <data key="d11">Oostende, België</data>
+      <data key="d12">783</data>
+      <data key="d13">Wouter De Vriendt</data>
+      <data key="d14">16195</data>
+      <data key="d15">False</data>
+      <data key="d16">WouterDeVriendt</data>
+      <data key="d17">8214</data>
+      <data key="d18">False</data>
+      <data key="d1">144519396</data>
+      <data key="d2">User</data>
+      <data key="d19">144519396</data>
+    </node>
+    <node id="905153">
+      <data key="d4">2010-08-06T16:19:10+00:00</data>
+      <data key="d5">Députée fédérale • Femme engagée • Subtil mélange de professionnalisme, de spontanéité et d'impertinence ✊</data>
+      <data key="d6">584</data>
+      <data key="d7">2168</data>
+      <data key="d8">1151</data>
+      <data key="d0">175438902</data>
+      <data key="d9">False</data>
+      <data key="d10">88</data>
+      <data key="d11">Aiseau-Presles, Belgique</data>
+      <data key="d12">109</data>
+      <data key="d13">Özlem Özen</data>
+      <data key="d14">2168</data>
+      <data key="d15">False</data>
+      <data key="d16">OzlemOzen1</data>
+      <data key="d17">806</data>
+      <data key="d18">False</data>
+      <data key="d1">175438902</data>
+      <data key="d2">User</data>
+      <data key="d19">175438902</data>
+    </node>
+    <node id="905369">
+      <data key="d4">2010-05-15T12:57:49+00:00</data>
+      <data key="d5">Kamerlid voor Vlaams Belang met een hart voor Defensie en Buitenlandse Zaken. Lid NAVO-parlement. Lijsttrekker Kamer Limburg</data>
+      <data key="d6">4411</data>
+      <data key="d7">1712</data>
+      <data key="d8">533</data>
+      <data key="d0">144150596</data>
+      <data key="d9">True</data>
+      <data key="d10">33</data>
+      <data key="d11">Bilzen</data>
+      <data key="d12">301</data>
+      <data key="d13">Annick Ponthier</data>
+      <data key="d14">1712</data>
+      <data key="d15">False</data>
+      <data key="d16">AnnickPonthier</data>
+      <data key="d17">3583</data>
+      <data key="d18">False</data>
+      <data key="d1">144150596</data>
+      <data key="d2">User</data>
+      <data key="d19">144150596</data>
+    </node>
+    <node id="905424">
+      <data key="d4">2021-11-02T15:13:16+00:00</data>
+      <data key="d5">Députée fédérale | Présidente du PS Lux | Echevine d’Etalle | Auteure  #bougerleslignes</data>
+      <data key="d6">28</data>
+      <data key="d7">166</data>
+      <data key="d8">30</data>
+      <data key="d0">1455553344202752005</data>
+      <data key="d9">False</data>
+      <data key="d10">5</data>
+      <data key="d11">Belgique</data>
+      <data key="d12">22</data>
+      <data key="d13">Mélissa Hanus</data>
+      <data key="d14">166</data>
+      <data key="d15">False</data>
+      <data key="d16">melissa__hanus</data>
+      <data key="d17">93</data>
+      <data key="d18">False</data>
+      <data key="d1">1455553344202752005</data>
+      <data key="d2">User</data>
+      <data key="d19">1455553344202752005</data>
+    </node>
+    <node id="905513">
+      <data key="d4">2011-08-05T07:11:21+00:00</data>
+      <data key="d5">Federaal parlementslid voor Vlaams Belang met een passie voor economie en energie.3de kandidaat Antwerpen</data>
+      <data key="d6">212</data>
+      <data key="d7">1122</data>
+      <data key="d8">292</data>
+      <data key="d0">348928538</data>
+      <data key="d9">True</data>
+      <data key="d10">19</data>
+      <data key="d11" />
+      <data key="d12">95</data>
+      <data key="d13">Reccino Van Lommel</data>
+      <data key="d14">1122</data>
+      <data key="d15">False</data>
+      <data key="d16">reccino</data>
+      <data key="d17">1092</data>
+      <data key="d18">False</data>
+      <data key="d1">348928538</data>
+      <data key="d2">User</data>
+      <data key="d19">348928538</data>
+    </node>
+    <node id="905698">
+      <data key="d4">2009-07-13T10:03:32+00:00</data>
+      <data key="d5">Kamerlid voor de N-VA // ondervoorzitter van De Kamer // mama van een olijke tweeling</data>
+      <data key="d6">3720</data>
+      <data key="d7">19891</data>
+      <data key="d8">1006</data>
+      <data key="d0">56336288</data>
+      <data key="d9">False</data>
+      <data key="d10">161</data>
+      <data key="d11">Kapellen</data>
+      <data key="d12">300</data>
+      <data key="d13">Valerie Van Peel</data>
+      <data key="d14">19891</data>
+      <data key="d15">False</data>
+      <data key="d16">valerievanpeel</data>
+      <data key="d17">5719</data>
+      <data key="d18">False</data>
+      <data key="d1">56336288</data>
+      <data key="d2">User</data>
+      <data key="d19">56336288</data>
+    </node>
+    <node id="905709">
+      <data key="d4">2012-04-17T11:02:11+00:00</data>
+      <data key="d5">Fractieleider in de Kamer, gemeenteraadslid in Gent. VOORUIT</data>
+      <data key="d6">11436</data>
+      <data key="d7">6345</data>
+      <data key="d8">1333</data>
+      <data key="d0">555876490</data>
+      <data key="d9">False</data>
+      <data key="d10">87</data>
+      <data key="d11">9040 Gent</data>
+      <data key="d12">1018</data>
+      <data key="d13">Joris Vandenbroucke</data>
+      <data key="d14">6345</data>
+      <data key="d15">False</data>
+      <data key="d16">JorisVDBroucke</data>
+      <data key="d17">12921</data>
+      <data key="d18">False</data>
+      <data key="d1">555876490</data>
+      <data key="d2">User</data>
+      <data key="d19">555876490</data>
+    </node>
+    <node id="905748">
+      <data key="d4">2010-05-12T09:20:02+00:00</data>
+      <data key="d5">Lid van de Kamer van volksvertegenwoordigers. Gemeenteraadslid in de wereldstad Buggenhout. Spreekt meerdere talen waaronder vloeiend sarcasme en cynisme.</data>
+      <data key="d6">3014</data>
+      <data key="d7">1319</data>
+      <data key="d8">654</data>
+      <data key="d0">143001237</data>
+      <data key="d9">False</data>
+      <data key="d10">35</data>
+      <data key="d11">Buggenhout (Flanders)</data>
+      <data key="d12">544</data>
+      <data key="d13">Steven Creyelman</data>
+      <data key="d14">1319</data>
+      <data key="d15">False</data>
+      <data key="d16">StevenCreyelman</data>
+      <data key="d17">4612</data>
+      <data key="d18">False</data>
+      <data key="d1">143001237</data>
+      <data key="d2">User</data>
+      <data key="d19">143001237</data>
+    </node>
+    <node id="905774">
+      <data key="d4">2011-02-25T10:50:16+00:00</data>
+      <data key="d5">Clinical Psychologist &amp; Sexologist #Belgium #Holland #UK. Member of Parliament, Belgium. Advocating #SRHR @SheDecidesGFI.Anoniem, negatief reageren = blokkeren</data>
+      <data key="d6">366</data>
+      <data key="d7">43094</data>
+      <data key="d8">403</data>
+      <data key="d0">257410956</data>
+      <data key="d9">False</data>
+      <data key="d10">190</data>
+      <data key="d11">Dilbeek, België</data>
+      <data key="d12">365</data>
+      <data key="d13">Goedele Liekens</data>
+      <data key="d14">43094</data>
+      <data key="d15">False</data>
+      <data key="d16">goedeleliekens</data>
+      <data key="d17">1905</data>
+      <data key="d18">False</data>
+      <data key="d1">257410956</data>
+      <data key="d2">User</data>
+      <data key="d19">257410956</data>
+    </node>
+    <node id="905892">
+      <data key="d4">2012-01-06T01:37:10+00:00</data>
+      <data key="d5">Député-Bourgmestre de #BrainelAlleud#brainelalleud #BLAdemain #BLA #Brabantwallon #MR</data>
+      <data key="d6">14</data>
+      <data key="d7">798</data>
+      <data key="d8">212</data>
+      <data key="d0">456249093</data>
+      <data key="d9">False</data>
+      <data key="d10">43</data>
+      <data key="d11">Braine-l'Alleud</data>
+      <data key="d12">35</data>
+      <data key="d13">Vincent Scourneau</data>
+      <data key="d14">798</data>
+      <data key="d15">False</data>
+      <data key="d16">scourneau</data>
+      <data key="d17">1385</data>
+      <data key="d18">False</data>
+      <data key="d1">456249093</data>
+      <data key="d2">User</data>
+      <data key="d19">456249093</data>
+    </node>
+    <node id="905925">
+      <data key="d4">2016-04-25T08:42:01+00:00</data>
+      <data key="d5">Député fédéral Ecolo</data>
+      <data key="d6">207</data>
+      <data key="d7">69</data>
+      <data key="d8">111</data>
+      <data key="d0">724518816584183808</data>
+      <data key="d9">False</data>
+      <data key="d10">17</data>
+      <data key="d11">Seneffe, hainaut, wallonie, belgique</data>
+      <data key="d12">3</data>
+      <data key="d13">Albert Vicaire</data>
+      <data key="d14">69</data>
+      <data key="d15">False</data>
+      <data key="d16">VicaireAlbert</data>
+      <data key="d17">64</data>
+      <data key="d18">False</data>
+      <data key="d1">724518816584183808</data>
+      <data key="d2">User</data>
+      <data key="d19">724518816584183808</data>
+    </node>
+    <node id="906021">
+      <data key="d4">2021-03-29T13:51:40+00:00</data>
+      <data key="d5">Députée fédérale @ecolo @groenJe siège en commission des affaires sociales (Emploi) et Finances (lutte contre les fraudes)Mon coeur bat à Andenne</data>
+      <data key="d6">41</data>
+      <data key="d7">450</data>
+      <data key="d8">271</data>
+      <data key="d0">1376532429821841411</data>
+      <data key="d9">False</data>
+      <data key="d10">19</data>
+      <data key="d11" />
+      <data key="d12">5</data>
+      <data key="d13">Cécile Cornet</data>
+      <data key="d14">450</data>
+      <data key="d15">False</data>
+      <data key="d16">cecile_cornet</data>
+      <data key="d17">60</data>
+      <data key="d18">False</data>
+      <data key="d1">1376532429821841411</data>
+      <data key="d2">User</data>
+      <data key="d19">1376532429821841411</data>
+    </node>
+    <node id="906242">
+      <data key="d4">2020-09-21T19:04:35+00:00</data>
+      <data key="d5">Kamerlid en schepen @de_NVA || Lijstduwer Kamer Vlaams-Brabant en kandidaat-burgemeester in Asse 👊🏼</data>
+      <data key="d6">5017</data>
+      <data key="d7">908</data>
+      <data key="d8">654</data>
+      <data key="d0">1308119714279968770</data>
+      <data key="d9">False</data>
+      <data key="d10">21</data>
+      <data key="d11">Asse, België</data>
+      <data key="d12">100</data>
+      <data key="d13">Sigrid Goethals</data>
+      <data key="d14">908</data>
+      <data key="d15">False</data>
+      <data key="d16">GoethalsSigrid2</data>
+      <data key="d17">483</data>
+      <data key="d18">False</data>
+      <data key="d1">1308119714279968770</data>
+      <data key="d2">User</data>
+      <data key="d19">1308119714279968770</data>
+    </node>
+    <node id="906304">
+      <data key="d4">2019-03-25T12:36:01+00:00</data>
+      <data key="d5">Député fédéral @MR Ex-présentateur du JT de @RTLTVI</data>
+      <data key="d6">367</data>
+      <data key="d7">1961</data>
+      <data key="d8">561</data>
+      <data key="d0">1110158391211708416</data>
+      <data key="d9">False</data>
+      <data key="d10">32</data>
+      <data key="d11">Bruxelles, Belgique</data>
+      <data key="d12">85</data>
+      <data key="d13">Michel De Maegd</data>
+      <data key="d14">1961</data>
+      <data key="d15">False</data>
+      <data key="d16">DeMaegdMichel</data>
+      <data key="d17">338</data>
+      <data key="d18">False</data>
+      <data key="d1">1110158391211708416</data>
+      <data key="d2">User</data>
+      <data key="d19">1110158391211708416</data>
+    </node>
+    <node id="906561">
+      <data key="d4">2019-09-24T15:54:50+00:00</data>
+      <data key="d5">Federaal parlementslid voor PVDA - Gemeenteraadslid Geel - lerares NT2 - gedreven door onrecht</data>
+      <data key="d6">879</data>
+      <data key="d7">507</data>
+      <data key="d8">117</data>
+      <data key="d0">1176525309140709377</data>
+      <data key="d9">False</data>
+      <data key="d10">14</data>
+      <data key="d11" />
+      <data key="d12">43</data>
+      <data key="d13">Greet Daems</data>
+      <data key="d14">507</data>
+      <data key="d15">False</data>
+      <data key="d16">DaemsGreet</data>
+      <data key="d17">569</data>
+      <data key="d18">False</data>
+      <data key="d1">1176525309140709377</data>
+      <data key="d2">User</data>
+      <data key="d19">1176525309140709377</data>
+    </node>
+    <node id="906677">
+      <data key="d4">2009-05-19T12:43:29+00:00</data>
+      <data key="d5">Bourgmestre de Koekelberg - Chef de Groupe PS à la Chambre des Représentants - Président de la Fédération Bruxelloise du PS</data>
+      <data key="d6">10869</data>
+      <data key="d7">12961</data>
+      <data key="d8">1196</data>
+      <data key="d0">41107057</data>
+      <data key="d9">False</data>
+      <data key="d10">189</data>
+      <data key="d11">Bruxelles - Koekelberg</data>
+      <data key="d12">485</data>
+      <data key="d13">Ahmed Laaouej</data>
+      <data key="d14">12961</data>
+      <data key="d15">False</data>
+      <data key="d16">AhmedLaaouej</data>
+      <data key="d17">14300</data>
+      <data key="d18">False</data>
+      <data key="d1">41107057</data>
+      <data key="d2">User</data>
+      <data key="d19">41107057</data>
+    </node>
+    <node id="906833">
+      <data key="d4">2013-01-12T16:15:03+00:00</data>
+      <data key="d5">Kamerlid, Dendermonds schepen, oud-voorzitter @jongnva.Geschiedkundige en econoom.UGent - KULeuven - Vlerick.</data>
+      <data key="d6">20868</data>
+      <data key="d7">5891</data>
+      <data key="d8">2576</data>
+      <data key="d0">1083406650</data>
+      <data key="d9">False</data>
+      <data key="d10">57</data>
+      <data key="d11">Vlaanderen</data>
+      <data key="d12">858</data>
+      <data key="d13">Tomas Roggeman</data>
+      <data key="d14">5891</data>
+      <data key="d15">False</data>
+      <data key="d16">TRoggeman</data>
+      <data key="d17">9249</data>
+      <data key="d18">False</data>
+      <data key="d1">1083406650</data>
+      <data key="d2">User</data>
+      <data key="d19">1083406650</data>
+    </node>
+    <node id="906927">
+      <data key="d4">2012-06-07T13:38:57+00:00</data>
+      <data key="d5">🇧🇪 Présidente de la Chambre des Représentants @LaChambreBE / De Kamervoorzitster @DeKamerBE 📍Conseillère communale / Gemeenteraads @PSNamur</data>
+      <data key="d6">2394</data>
+      <data key="d7">7384</data>
+      <data key="d8">1640</data>
+      <data key="d0">601882135</data>
+      <data key="d9">False</data>
+      <data key="d10">133</data>
+      <data key="d11">Namur</data>
+      <data key="d12">432</data>
+      <data key="d13">Eliane Tillieux</data>
+      <data key="d14">7384</data>
+      <data key="d15">False</data>
+      <data key="d16">elianetillieux</data>
+      <data key="d17">2668</data>
+      <data key="d18">False</data>
+      <data key="d1">601882135</data>
+      <data key="d2">User</data>
+      <data key="d19">601882135</data>
+    </node>
+    <node id="906971">
+      <data key="d4">2019-10-15T11:42:10+00:00</data>
+      <data key="d5">Député au Parlement Fédéral  #LaChambre #PS</data>
+      <data key="d6">372</data>
+      <data key="d7">204</data>
+      <data key="d8">234</data>
+      <data key="d0">1184071863418458112</data>
+      <data key="d9">False</data>
+      <data key="d10">14</data>
+      <data key="d11">Anderlues, Belgique</data>
+      <data key="d12">13</data>
+      <data key="d13">Philippe TISON</data>
+      <data key="d14">204</data>
+      <data key="d15">False</data>
+      <data key="d16">PhTison</data>
+      <data key="d17">269</data>
+      <data key="d18">False</data>
+      <data key="d1">1184071863418458112</data>
+      <data key="d2">User</data>
+      <data key="d19">1184071863418458112</data>
+    </node>
+    <node id="906975">
+      <data key="d4">2009-05-03T19:05:05+00:00</data>
+      <data key="d5">rock &amp; politics / de Kamer &amp; festivals / CD&amp;V &amp; KVM / via ferrata &amp; sjotten / Kalmthout &amp; cities / NMBS &amp; verkeer / cycling &amp; running / ...</data>
+      <data key="d6">6502</data>
+      <data key="d7">3032</data>
+      <data key="d8">1177</data>
+      <data key="d0">37477079</data>
+      <data key="d9">False</data>
+      <data key="d10">108</data>
+      <data key="d11">N 51°16' 0'' / E 4°38' 0''</data>
+      <data key="d12">273</data>
+      <data key="d13">Jef Van den Bergh ☀️</data>
+      <data key="d14">3032</data>
+      <data key="d15">False</data>
+      <data key="d16">jefvandenbergh</data>
+      <data key="d17">7436</data>
+      <data key="d18">False</data>
+      <data key="d1">37477079</data>
+      <data key="d2">User</data>
+      <data key="d19">37477079</data>
+    </node>
+    <node id="907093">
+      <data key="d4">2011-09-02T06:45:44+00:00</data>
+      <data key="d5">Consultant en Aménagement Numérique des Territoires</data>
+      <data key="d6">24502</data>
+      <data key="d7">431</data>
+      <data key="d8">510</data>
+      <data key="d0">366462579</data>
+      <data key="d9">False</data>
+      <data key="d10">6</data>
+      <data key="d11">Le Val Sait Germain</data>
+      <data key="d12">59</data>
+      <data key="d13">Eric THIEBAUT</data>
+      <data key="d14">431</data>
+      <data key="d15">False</data>
+      <data key="d16">ThiebautEric</data>
+      <data key="d17">8281</data>
+      <data key="d18">False</data>
+      <data key="d1">366462579</data>
+      <data key="d2">User</data>
+      <data key="d19">366462579</data>
+    </node>
+    <node id="907743">
+      <data key="d4">2013-09-27T06:33:51+00:00</data>
+      <data key="d5">Député fédéral-Bourgmestre, Président du groupe MR à la Chambre, du MR Lux, des jeunesses musicales, du Centre d'art contemporain, du Parc naturel de Gaume.</data>
+      <data key="d6">741</data>
+      <data key="d7">1819</data>
+      <data key="d8">485</data>
+      <data key="d0">1910345449</data>
+      <data key="d9">False</data>
+      <data key="d10">51</data>
+      <data key="d11">Bellefontaine</data>
+      <data key="d12">305</data>
+      <data key="d13">Piedboeuf Benoît</data>
+      <data key="d14">1819</data>
+      <data key="d15">False</data>
+      <data key="d16">Benoitbp59</data>
+      <data key="d17">949</data>
+      <data key="d18">False</data>
+      <data key="d1">1910345449</data>
+      <data key="d2">User</data>
+      <data key="d19">1910345449</data>
+    </node>
+    <node id="907747">
+      <data key="d4">2013-04-30T19:26:01+00:00</data>
+      <data key="d5">Députée fédérale Humaniste @LesEngages_be, chef de groupe à la Chambre. Médecin spécialiste en médecine interne et néphrologie. Hainaut Belgique.</data>
+      <data key="d6">9741</data>
+      <data key="d7">17624</data>
+      <data key="d8">1014</data>
+      <data key="d0">1392844044</data>
+      <data key="d9">False</data>
+      <data key="d10">202</data>
+      <data key="d11" />
+      <data key="d12">1134</data>
+      <data key="d13">Catherine Fonck</data>
+      <data key="d14">17624</data>
+      <data key="d15">False</data>
+      <data key="d16">catherinefonck</data>
+      <data key="d17">15844</data>
+      <data key="d18">False</data>
+      <data key="d1">1392844044</data>
+      <data key="d2">User</data>
+      <data key="d19">1392844044</data>
+    </node>
+    <node id="908002">
+      <data key="d4">2015-10-21T15:05:18+00:00</data>
+      <data key="d5">Federaal Volksvertegenwoordiger voor Vlaams BelangBestuurslid Vlaams Belang Sint-Lievens-Houtem</data>
+      <data key="d6">2798</data>
+      <data key="d7">540</data>
+      <data key="d8">351</data>
+      <data key="d0">4010279236</data>
+      <data key="d9">True</data>
+      <data key="d10">13</data>
+      <data key="d11">Sint-Lievens-Houtem</data>
+      <data key="d12">80</data>
+      <data key="d13">Pieter De Spiegeleer</data>
+      <data key="d14">540</data>
+      <data key="d15">False</data>
+      <data key="d16">spiegeleer13</data>
+      <data key="d17">2858</data>
+      <data key="d18">False</data>
+      <data key="d1">4010279236</data>
+      <data key="d2">User</data>
+      <data key="d19">4010279236</data>
+    </node>
+    <node id="908171">
+      <data key="d4">2013-05-23T08:14:33+00:00</data>
+      <data key="d5">volksvertegenwoordiger in de Kamer voor Groen</data>
+      <data key="d6">6764</data>
+      <data key="d7">1390</data>
+      <data key="d8">1390</data>
+      <data key="d0">1450879699</data>
+      <data key="d9">False</data>
+      <data key="d10">39</data>
+      <data key="d11">Haacht</data>
+      <data key="d12">149</data>
+      <data key="d13">dieter van besien</data>
+      <data key="d14">1390</data>
+      <data key="d15">False</data>
+      <data key="d16">DieterVanBesien</data>
+      <data key="d17">1364</data>
+      <data key="d18">False</data>
+      <data key="d1">1450879699</data>
+      <data key="d2">User</data>
+      <data key="d19">1450879699</data>
+    </node>
+    <node id="908204">
+      <data key="d4">2022-03-29T11:33:11+00:00</data>
+      <data key="d5">Kamerlid Vlaams Belangkandidaat plaats 4 Kamer Vlaams-BrabantVoor de vrijheid en identiteit van alle volkeren, natuurliefhebber maar dan echt, familieman.</data>
+      <data key="d6">3025</data>
+      <data key="d7">374</data>
+      <data key="d8">291</data>
+      <data key="d0">1508769105557532677</data>
+      <data key="d9">False</data>
+      <data key="d10">0</data>
+      <data key="d11" />
+      <data key="d12">42</data>
+      <data key="d13">Joris De Vriendt</data>
+      <data key="d14">374</data>
+      <data key="d15">False</data>
+      <data key="d16">JorisDeVriendt</data>
+      <data key="d17">3011</data>
+      <data key="d18">False</data>
+      <data key="d1">1508769105557532677</data>
+      <data key="d2">User</data>
+      <data key="d19">1508769105557532677</data>
+    </node>
+    <node id="908470">
+      <data key="d4">2020-11-12T09:02:57+00:00</data>
+      <data key="d5">Lijstduwer Kamer @vlbelangVolksvertegenwoordiger sinds 1991</data>
+      <data key="d6">6</data>
+      <data key="d7">237</data>
+      <data key="d8">29</data>
+      <data key="d0">1326812645870153728</data>
+      <data key="d9">True</data>
+      <data key="d10">8</data>
+      <data key="d11">Antwerpen</data>
+      <data key="d12">1</data>
+      <data key="d13">Marijke Dillen</data>
+      <data key="d14">237</data>
+      <data key="d15">False</data>
+      <data key="d16">DillenMarijke</data>
+      <data key="d17">19</data>
+      <data key="d18">False</data>
+      <data key="d1">1326812645870153728</data>
+      <data key="d2">User</data>
+      <data key="d19">1326812645870153728</data>
+    </node>
+    <node id="908625">
+      <data key="d4">2011-08-27T05:51:10+00:00</data>
+      <data key="d5">Député à @LaChambreBE pour le @MR_officiel</data>
+      <data key="d6">1287</data>
+      <data key="d7">6914</data>
+      <data key="d8">215</data>
+      <data key="d0">362914325</data>
+      <data key="d9">False</data>
+      <data key="d10">106</data>
+      <data key="d11">Crisnée</data>
+      <data key="d12">390</data>
+      <data key="d13">Philippe Goffin</data>
+      <data key="d14">6914</data>
+      <data key="d15">False</data>
+      <data key="d16">PhGoffin</data>
+      <data key="d17">888</data>
+      <data key="d18">False</data>
+      <data key="d1">362914325</data>
+      <data key="d2">User</data>
+      <data key="d19">362914325</data>
+    </node>
+    <node id="908833">
+      <data key="d4">2011-08-16T13:07:21+00:00</data>
+      <data key="d5" />
+      <data key="d6">33351</data>
+      <data key="d7">7204</data>
+      <data key="d8">5932</data>
+      <data key="d0">356171201</data>
+      <data key="d9">False</data>
+      <data key="d10">58</data>
+      <data key="d11" />
+      <data key="d12">855</data>
+      <data key="d13">Ben Segers</data>
+      <data key="d14">7204</data>
+      <data key="d15">False</data>
+      <data key="d16">SegersBen</data>
+      <data key="d17">7866</data>
+      <data key="d18">False</data>
+      <data key="d1">356171201</data>
+      <data key="d2">User</data>
+      <data key="d19">356171201</data>
+    </node>
+    <node id="908849">
+      <data key="d4">2018-10-05T13:03:27+00:00</data>
+      <data key="d5">Volksvertegenwoordiger in De kamer</data>
+      <data key="d6">81</data>
+      <data key="d7">237</data>
+      <data key="d8">40</data>
+      <data key="d0">1048196971356442624</data>
+      <data key="d9">False</data>
+      <data key="d10">11</data>
+      <data key="d11">Beringen</data>
+      <data key="d12">33</data>
+      <data key="d13">Erik Gilissen</data>
+      <data key="d14">237</data>
+      <data key="d15">False</data>
+      <data key="d16">ErikGilissen</data>
+      <data key="d17">151</data>
+      <data key="d18">False</data>
+      <data key="d1">1048196971356442624</data>
+      <data key="d2">User</data>
+      <data key="d19">1048196971356442624</data>
+    </node>
+    <node id="909253">
+      <data key="d4">2019-07-06T08:54:47+00:00</data>
+      <data key="d5">Volksvertegenwoordiger | Gemeenteraadslid</data>
+      <data key="d6">2505</data>
+      <data key="d7">990</data>
+      <data key="d8">1100</data>
+      <data key="d0">1147428668609835008</data>
+      <data key="d9">False</data>
+      <data key="d10">9</data>
+      <data key="d11" />
+      <data key="d12">20</data>
+      <data key="d13">Nathalie Dewulf</data>
+      <data key="d14">990</data>
+      <data key="d15">False</data>
+      <data key="d16">DewulfNathalie</data>
+      <data key="d17">1251</data>
+      <data key="d18">False</data>
+      <data key="d1">1147428668609835008</data>
+      <data key="d2">User</data>
+      <data key="d19">1147428668609835008</data>
+    </node>
+    <node id="909388">
+      <data key="d4">2009-04-02T13:36:05+00:00</data>
+      <data key="d5">Kamerlid @de_NVA #energie #leefmilieu en #mobiliteit - Schepen van Openbare Ruimte &amp; Mobiliteit in Pallieterstad Lier - #diepzeeduiker - Star Wars-fan #mtfbwy</data>
+      <data key="d6">234</data>
+      <data key="d7">6489</data>
+      <data key="d8">1879</data>
+      <data key="d0">28338163</data>
+      <data key="d9">False</data>
+      <data key="d10">143</data>
+      <data key="d11">Lier</data>
+      <data key="d12">752</data>
+      <data key="d13">Bert Wollants</data>
+      <data key="d14">6489</data>
+      <data key="d15">False</data>
+      <data key="d16">BertWollants</data>
+      <data key="d17">5666</data>
+      <data key="d18">False</data>
+      <data key="d1">28338163</data>
+      <data key="d2">User</data>
+      <data key="d19">28338163</data>
+    </node>
+    <node id="909487">
+      <data key="d4">2019-10-15T08:15:50+00:00</data>
+      <data key="d5">Federaal Volksvertegenwoordiger Vlaams Belang</data>
+      <data key="d6">3</data>
+      <data key="d7">273</data>
+      <data key="d8">131</data>
+      <data key="d0">1184019941973995520</data>
+      <data key="d9">False</data>
+      <data key="d10">14</data>
+      <data key="d11" />
+      <data key="d12">1</data>
+      <data key="d13">Kurt Ravyts</data>
+      <data key="d14">273</data>
+      <data key="d15">False</data>
+      <data key="d16">KurtRavyts</data>
+      <data key="d17">18</data>
+      <data key="d18">False</data>
+      <data key="d1">1184019941973995520</data>
+      <data key="d2">User</data>
+      <data key="d19">1184019941973995520</data>
+    </node>
+    <node id="909672">
+      <data key="d4">2022-11-30T13:14:24+00:00</data>
+      <data key="d5">Député fédéral du PTB (Parti du Travail de Belgique)  / Conseiller communal à Charleroi / Ancien délégué syndical FGTB chez Caterpillar</data>
+      <data key="d6">1246</data>
+      <data key="d7">259</data>
+      <data key="d8">260</data>
+      <data key="d0">1597941913239392257</data>
+      <data key="d9">False</data>
+      <data key="d10">2</data>
+      <data key="d11">Charleroi</data>
+      <data key="d12">18</data>
+      <data key="d13">Roberto D'Amico</data>
+      <data key="d14">259</data>
+      <data key="d15">False</data>
+      <data key="d16">RDAmicoPTB</data>
+      <data key="d17">147</data>
+      <data key="d18">False</data>
+      <data key="d1">1597941913239392257</data>
+      <data key="d2">User</data>
+      <data key="d19">1597941913239392257</data>
+    </node>
+    <node id="909688">
+      <data key="d4">2020-06-04T09:59:18+00:00</data>
+      <data key="d5">burgemeester stad Ninove - Federaal parlementslid Open Vld</data>
+      <data key="d6">258</data>
+      <data key="d7">619</data>
+      <data key="d8">362</data>
+      <data key="d0">1268482390546137088</data>
+      <data key="d9">False</data>
+      <data key="d10">12</data>
+      <data key="d11" />
+      <data key="d12">29</data>
+      <data key="d13">Tania De Jonge</data>
+      <data key="d14">619</data>
+      <data key="d15">False</data>
+      <data key="d16">TaniaDeJonge</data>
+      <data key="d17">278</data>
+      <data key="d18">False</data>
+      <data key="d1">1268482390546137088</data>
+      <data key="d2">User</data>
+      <data key="d19">1268482390546137088</data>
+    </node>
+    <node id="909735">
+      <data key="d4">2014-11-04T12:01:55+00:00</data>
+      <data key="d5">Fractieleider Open Vld Kamer. Ik woon in het mooie Merchtem. Ik ben getrouwd met Luc en ben de mama van Julie en Jan. Trotse oma van John en Jill.</data>
+      <data key="d6">5113</data>
+      <data key="d7">36923</data>
+      <data key="d8">696</data>
+      <data key="d0">2860510937</data>
+      <data key="d9">False</data>
+      <data key="d10">307</data>
+      <data key="d11">Brussel, België</data>
+      <data key="d12">600</data>
+      <data key="d13">Maggie De Block</data>
+      <data key="d14">36923</data>
+      <data key="d15">False</data>
+      <data key="d16">Maggie_DeBlock</data>
+      <data key="d17">10105</data>
+      <data key="d18">False</data>
+      <data key="d1">2860510937</data>
+      <data key="d2">User</data>
+      <data key="d19">2860510937</data>
+    </node>
+    <node id="909938">
+      <data key="d4">2011-04-12T09:50:45+00:00</data>
+      <data key="d5">1ste opvolger voor de Kamer - Federaal Parlementslid - Gemeenteraadslid Antwerpen - lid van CD&amp;V - vrouw van Guy - mama van Noor - plusmama van Tatjana</data>
+      <data key="d6">3284</data>
+      <data key="d7">3316</data>
+      <data key="d8">1233</data>
+      <data key="d0">280941391</data>
+      <data key="d9">False</data>
+      <data key="d10">116</data>
+      <data key="d11">Antwerpen</data>
+      <data key="d12">340</data>
+      <data key="d13">Nahima Lanjri</data>
+      <data key="d14">3316</data>
+      <data key="d15">False</data>
+      <data key="d16">NahimaLanjri</data>
+      <data key="d17">2230</data>
+      <data key="d18">False</data>
+      <data key="d1">280941391</data>
+      <data key="d2">User</data>
+      <data key="d19">280941391</data>
+    </node>
+    <node id="909975">
+      <data key="d4">2013-06-21T07:10:29+00:00</data>
+      <data key="d5" />
+      <data key="d6">0</data>
+      <data key="d7">10</data>
+      <data key="d8">9</data>
+      <data key="d0">1535959693</data>
+      <data key="d9">False</data>
+      <data key="d10">0</data>
+      <data key="d11" />
+      <data key="d12">0</data>
+      <data key="d13">Stefaan Vanhecke</data>
+      <data key="d14">10</data>
+      <data key="d15">False</data>
+      <data key="d16">StefaanVanhecke</data>
+      <data key="d17">2</data>
+      <data key="d18">False</data>
+      <data key="d1">1535959693</data>
+      <data key="d2">User</data>
+      <data key="d19">1535959693</data>
+    </node>
+    <node id="909980">
+      <data key="d4">2022-06-23T09:52:22+00:00</data>
+      <data key="d5">Parlementslid @de_NVA Kamer van Volksvertegenwoordigers 💛🖤| volksgezondheid &amp; voedselveiligheid | Schepen in Sint-Truiden, hoofdstad van Haspengouw</data>
+      <data key="d6">59</data>
+      <data key="d7">289</data>
+      <data key="d8">144</data>
+      <data key="d0">1539909011679727617</data>
+      <data key="d9">False</data>
+      <data key="d10">5</data>
+      <data key="d11" />
+      <data key="d12">11</data>
+      <data key="d13">Mieke Claes</data>
+      <data key="d14">289</data>
+      <data key="d15">False</data>
+      <data key="d16">MiekeClaes</data>
+      <data key="d17">48</data>
+      <data key="d18">False</data>
+      <data key="d1">1539909011679727617</data>
+      <data key="d2">User</data>
+      <data key="d19">1539909011679727617</data>
+    </node>
+    <node id="910099">
+      <data key="d4">2018-05-08T12:45:23+00:00</data>
+      <data key="d5">volksvertegenwoordiger PVDA en schepen in #Zelzategeweldig</data>
+      <data key="d6">295</data>
+      <data key="d7">543</data>
+      <data key="d8">316</data>
+      <data key="d0">993834246937694213</data>
+      <data key="d9">False</data>
+      <data key="d10">19</data>
+      <data key="d11" />
+      <data key="d12">56</data>
+      <data key="d13">Steven De Vuyst</data>
+      <data key="d14">543</data>
+      <data key="d15">False</data>
+      <data key="d16">DeVuystSteven</data>
+      <data key="d17">342</data>
+      <data key="d18">False</data>
+      <data key="d1">993834246937694213</data>
+      <data key="d2">User</data>
+      <data key="d19">993834246937694213</data>
+    </node>
+    <node id="910584">
+      <data key="d4">2011-09-12T13:09:16+00:00</data>
+      <data key="d5">Schepen Ruimtelijke Ordening, Huisvesting, Leefmilieu en Sport, Federaal volksvertegenwoordiger</data>
+      <data key="d6">4839</data>
+      <data key="d7">1978</data>
+      <data key="d8">322</data>
+      <data key="d0">372263406</data>
+      <data key="d9">False</data>
+      <data key="d10">51</data>
+      <data key="d11">Brugge</data>
+      <data key="d12">1204</data>
+      <data key="d13">Franky Demon</data>
+      <data key="d14">1978</data>
+      <data key="d15">False</data>
+      <data key="d16">FrankyDemon</data>
+      <data key="d17">2759</data>
+      <data key="d18">False</data>
+      <data key="d1">372263406</data>
+      <data key="d2">User</data>
+      <data key="d19">372263406</data>
+    </node>
+    <node id="910983">
+      <data key="d4">2010-04-30T13:26:08+00:00</data>
+      <data key="d5">Député fédéral Les Engagés https://t.co/XvKFRFlvOX https://t.co/UZaNsDMpCJ</data>
+      <data key="d6">5226</data>
+      <data key="d7">5297</data>
+      <data key="d8">754</data>
+      <data key="d0">138747473</data>
+      <data key="d9">False</data>
+      <data key="d10">104</data>
+      <data key="d11">Bruxelles</data>
+      <data key="d12">104</data>
+      <data key="d13">Georges Dallemagne</data>
+      <data key="d14">5297</data>
+      <data key="d15">False</data>
+      <data key="d16">G_Dallemagne</data>
+      <data key="d17">3379</data>
+      <data key="d18">False</data>
+      <data key="d1">138747473</data>
+      <data key="d2">User</data>
+      <data key="d19">138747473</data>
+    </node>
+    <node id="912229">
+      <data key="d4">2020-03-06T12:53:43+00:00</data>
+      <data key="d5">Politica</data>
+      <data key="d6">14731</data>
+      <data key="d7">1138</data>
+      <data key="d8">1390</data>
+      <data key="d0">1235911352633483264</data>
+      <data key="d9">True</data>
+      <data key="d10">12</data>
+      <data key="d11" />
+      <data key="d12">56</data>
+      <data key="d13">Dominiek Sneppe</data>
+      <data key="d14">1138</data>
+      <data key="d15">False</data>
+      <data key="d16">DominiekSneppe</data>
+      <data key="d17">7764</data>
+      <data key="d18">False</data>
+      <data key="d1">1235911352633483264</data>
+      <data key="d2">User</data>
+      <data key="d19">1235911352633483264</data>
+    </node>
+    <node id="912269">
+      <data key="d4">2012-12-21T13:51:11+00:00</data>
+      <data key="d5">3e plaats Vlaams @openvld Oost-Vlaanderen | Federaal parlementslid | Werkt rond thema’s gezondheid | euthanasie | gelijke kansen 🏳️‍🌈</data>
+      <data key="d6">5447</data>
+      <data key="d7">1334</data>
+      <data key="d8">795</data>
+      <data key="d0">1026420624</data>
+      <data key="d9">False</data>
+      <data key="d10">26</data>
+      <data key="d11">Moerbeke-Waas</data>
+      <data key="d12">342</data>
+      <data key="d13">Robby De Caluwé</data>
+      <data key="d14">1334</data>
+      <data key="d15">False</data>
+      <data key="d16">rdecaluwe</data>
+      <data key="d17">3082</data>
+      <data key="d18">False</data>
+      <data key="d1">1026420624</data>
+      <data key="d2">User</data>
+      <data key="d19">1026420624</data>
+    </node>
+    <node id="912298">
+      <data key="d4">2009-05-12T21:38:14+00:00</data>
+      <data key="d5">Volksvertegenwoordiger &amp; Gemeenteraadslid te Boom | Vader van 2 &amp; Echtgenoot | hans@verreyt.com | 0496533138</data>
+      <data key="d6">7959</data>
+      <data key="d7">2051</data>
+      <data key="d8">710</data>
+      <data key="d0">39602962</data>
+      <data key="d9">False</data>
+      <data key="d10">51</data>
+      <data key="d11">Boom</data>
+      <data key="d12">1401</data>
+      <data key="d13">Hans Verreyt</data>
+      <data key="d14">2051</data>
+      <data key="d15">False</data>
+      <data key="d16">HansVerreyt</data>
+      <data key="d17">7585</data>
+      <data key="d18">False</data>
+      <data key="d1">39602962</data>
+      <data key="d2">User</data>
+      <data key="d19">39602962</data>
+    </node>
+    <node id="912398">
+      <data key="d4">2013-01-13T12:48:29+00:00</data>
+      <data key="d5">Lijsttrekker Vlaams Parlement voor @groenGemeenteraadslid voor @groenravels</data>
+      <data key="d6">12482</data>
+      <data key="d7">1649</data>
+      <data key="d8">1337</data>
+      <data key="d0">1085994108</data>
+      <data key="d9">False</data>
+      <data key="d10">42</data>
+      <data key="d11">Ravels, België</data>
+      <data key="d12">260</data>
+      <data key="d13">Kim Buyst</data>
+      <data key="d14">1649</data>
+      <data key="d15">False</data>
+      <data key="d16">BuystKim</data>
+      <data key="d17">5271</data>
+      <data key="d18">False</data>
+      <data key="d1">1085994108</data>
+      <data key="d2">User</data>
+      <data key="d19">1085994108</data>
+    </node>
+    <node id="913005">
+      <data key="d4">2020-10-22T11:25:50+00:00</data>
+      <data key="d5">Leslie Leoni I Députée fédérale &amp; Conseillère communale PS</data>
+      <data key="d6">48</data>
+      <data key="d7">99</data>
+      <data key="d8">67</data>
+      <data key="d0">1319238467285647360</data>
+      <data key="d9">False</data>
+      <data key="d10">12</data>
+      <data key="d11">La Louvière</data>
+      <data key="d12">0</data>
+      <data key="d13">Leslie Leoni</data>
+      <data key="d14">99</data>
+      <data key="d15">False</data>
+      <data key="d16">LeslieLeoni_PS</data>
+      <data key="d17">165</data>
+      <data key="d18">False</data>
+      <data key="d1">1319238467285647360</data>
+      <data key="d2">User</data>
+      <data key="d19">1319238467285647360</data>
+    </node>
+    <node id="913034">
+      <data key="d4">2012-01-16T15:28:32+00:00</data>
+      <data key="d5">Députée fédérale belge @pslachambre</data>
+      <data key="d6">54</data>
+      <data key="d7">374</data>
+      <data key="d8">130</data>
+      <data key="d0">465628965</data>
+      <data key="d9">False</data>
+      <data key="d10">25</data>
+      <data key="d11">La Louvière</data>
+      <data key="d12">36</data>
+      <data key="d13">Laurence Zanchetta</data>
+      <data key="d14">374</data>
+      <data key="d15">False</data>
+      <data key="d16">ZanchettaPS</data>
+      <data key="d17">263</data>
+      <data key="d18">False</data>
+      <data key="d1">465628965</data>
+      <data key="d2">User</data>
+      <data key="d19">465628965</data>
+    </node>
+    <node id="913177">
+      <data key="d4">2019-10-15T10:13:50+00:00</data>
+      <data key="d5">Bourgmestre #CommuneDeFlémalle Députée Fédérale @PSofficiel #LaChambre</data>
+      <data key="d6">257</data>
+      <data key="d7">437</data>
+      <data key="d8">207</data>
+      <data key="d0">1184049631375872001</data>
+      <data key="d9">False</data>
+      <data key="d10">21</data>
+      <data key="d11" />
+      <data key="d12">79</data>
+      <data key="d13">Thémont Sophie</data>
+      <data key="d14">437</data>
+      <data key="d15">False</data>
+      <data key="d16">SophieThemont</data>
+      <data key="d17">464</data>
+      <data key="d18">False</data>
+      <data key="d1">1184049631375872001</data>
+      <data key="d2">User</data>
+      <data key="d19">1184049631375872001</data>
+    </node>
+    <node id="913209">
+      <data key="d4">2009-08-10T20:34:23+00:00</data>
+      <data key="d5">Chef de groupe @Ecolo @Groen au Parlement fédéral. Bruxellois depuis toujours, habitant d'Ixelles et heureux papa de 2 petites merveilles.</data>
+      <data key="d6">17953</data>
+      <data key="d7">5507</data>
+      <data key="d8">3466</data>
+      <data key="d0">64506745</data>
+      <data key="d9">False</data>
+      <data key="d10">200</data>
+      <data key="d11">Brussels - Belgium</data>
+      <data key="d12">382</data>
+      <data key="d13">Gilles Vanden Burre</data>
+      <data key="d14">5507</data>
+      <data key="d15">False</data>
+      <data key="d16">GillesVdBurre</data>
+      <data key="d17">13503</data>
+      <data key="d18">False</data>
+      <data key="d1">64506745</data>
+      <data key="d2">User</data>
+      <data key="d19">64506745</data>
+    </node>
+    <node id="913221">
+      <data key="d4">2011-06-07T19:18:48+00:00</data>
+      <data key="d5">Lid Kamer van  #Volksvertegenwoordiger (N-VA); Voorzitster Kamercommissie voor #Justitie; #Joggen door het mooie #Pajottenland;</data>
+      <data key="d6">1147</data>
+      <data key="d7">3215</data>
+      <data key="d8">803</data>
+      <data key="d0">312845736</data>
+      <data key="d9">False</data>
+      <data key="d10">81</data>
+      <data key="d11">Lennik</data>
+      <data key="d12">197</data>
+      <data key="d13">Kristien Van Vaerenbergh🎗️</data>
+      <data key="d14">3215</data>
+      <data key="d15">False</data>
+      <data key="d16">kris10vanvaer</data>
+      <data key="d17">1824</data>
+      <data key="d18">False</data>
+      <data key="d1">312845736</data>
+      <data key="d2">User</data>
+      <data key="d19">312845736</data>
+    </node>
+    <node id="913327">
+      <data key="d4">2012-05-15T09:45:14+00:00</data>
+      <data key="d5">Burgemeester Edegem I Federaal Parlementslid @de_NVA I Voorzitter tijdelijke commissie terrorismebestrijding |Trotse man en papa van 2 kleppers</data>
+      <data key="d6">6997</data>
+      <data key="d7">4530</data>
+      <data key="d8">932</data>
+      <data key="d0">580737124</data>
+      <data key="d9">False</data>
+      <data key="d10">79</data>
+      <data key="d11">Vlaanderen</data>
+      <data key="d12">402</data>
+      <data key="d13">Koen Metsu</data>
+      <data key="d14">4530</data>
+      <data key="d15">False</data>
+      <data key="d16">MetsuKoen</data>
+      <data key="d17">1590</data>
+      <data key="d18">False</data>
+      <data key="d1">580737124</data>
+      <data key="d2">User</data>
+      <data key="d19">580737124</data>
+    </node>
+    <node id="917685">
+      <data key="d4">2010-08-31T16:40:07+00:00</data>
+      <data key="d5">Federaal Volksvertegenwoordiger voor Vlaams Belang</data>
+      <data key="d6">4724</data>
+      <data key="d7">926</data>
+      <data key="d8">535</data>
+      <data key="d0">185283970</data>
+      <data key="d9">True</data>
+      <data key="d10">11</data>
+      <data key="d11">Hasselt</data>
+      <data key="d12">141</data>
+      <data key="d13">Frank Troosters</data>
+      <data key="d14">926</data>
+      <data key="d15">False</data>
+      <data key="d16">FrankTroosters</data>
+      <data key="d17">13002</data>
+      <data key="d18">False</data>
+      <data key="d1">185283970</data>
+      <data key="d2">User</data>
+      <data key="d19">185283970</data>
+    </node>
+    <node id="939337">
+      <data key="d4">2010-06-02T12:36:00+00:00</data>
+      <data key="d5">Federaal Volksvertegenwoordiger - Juriste - Vastgoedmakelaar</data>
+      <data key="d6">2175</data>
+      <data key="d7">771</data>
+      <data key="d8">234</data>
+      <data key="d0">151027434</data>
+      <data key="d9">False</data>
+      <data key="d10">31</data>
+      <data key="d11">Lennik, België</data>
+      <data key="d12">85</data>
+      <data key="d13">Katleen Bury</data>
+      <data key="d14">771</data>
+      <data key="d15">False</data>
+      <data key="d16">KatleenBury</data>
+      <data key="d17">3036</data>
+      <data key="d18">False</data>
+      <data key="d1">151027434</data>
+      <data key="d2">User</data>
+      <data key="d19">151027434</data>
+    </node>
+    <node id="944491">
+      <data key="d4">2013-04-19T19:06:48+00:00</data>
+      <data key="d5">Députée fédérale 🇧🇪@ecolo _ Conseillère communale Fleurus _ économiste</data>
+      <data key="d6">976</data>
+      <data key="d7">398</data>
+      <data key="d8">235</data>
+      <data key="d0">1365173000</data>
+      <data key="d9">False</data>
+      <data key="d10">25</data>
+      <data key="d11">BE</data>
+      <data key="d12">6</data>
+      <data key="d13">Laurence Hennuy</data>
+      <data key="d14">398</data>
+      <data key="d15">False</data>
+      <data key="d16">laurencehennuy</data>
+      <data key="d17">229</data>
+      <data key="d18">False</data>
+      <data key="d1">1365173000</data>
+      <data key="d2">User</data>
+      <data key="d19">1365173000</data>
+    </node>
+    <node id="944590">
+      <data key="d4">2009-02-23T16:24:15+00:00</data>
+      <data key="d5">• Bourgmestre d’Estaimpuis  • Député fédéral 🇧🇪  • @PSofficiel 🌹•</data>
+      <data key="d6">1531</data>
+      <data key="d7">1456</data>
+      <data key="d8">471</data>
+      <data key="d0">21665227</data>
+      <data key="d9">False</data>
+      <data key="d10">79</data>
+      <data key="d11">Estaimpuis</data>
+      <data key="d12">217</data>
+      <data key="d13">Daniel Senesael</data>
+      <data key="d14">1456</data>
+      <data key="d15">False</data>
+      <data key="d16">danielsenesael</data>
+      <data key="d17">1250</data>
+      <data key="d18">False</data>
+      <data key="d1">21665227</data>
+      <data key="d2">User</data>
+      <data key="d19">21665227</data>
+    </node>
+    <edge source="893838" target="1017791">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="893842" target="1017791">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="893843" target="1017786">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="893845" target="1017790">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="893860" target="1017793">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="893861" target="1017793">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="893864" target="1017793">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="893879" target="1017797">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="893914" target="1017787">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="894155" target="1017796">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="894237" target="1017788">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="894241" target="1017788">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="894243" target="1017791">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="894345" target="1017791">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="894913" target="1017791">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="895067" target="1017795">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="895090" target="1017792">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="895290" target="1017796">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="895496" target="1017788">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="895599" target="1017788">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="895600" target="1017788">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="896025" target="1017791">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="896029" target="1017789">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="896034" target="1017787">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="896052" target="1017786">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="896088" target="1017786">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="896104" target="1017791">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="896126" target="1017791">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="896137" target="1017789">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="896250" target="1017791">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="896388" target="1017791">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="896551" target="1017791">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="896561" target="1017786">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="896722" target="1017790">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="896911" target="1017795">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="896984" target="1017793">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="897019" target="1017787">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="897313" target="1017793">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="897654" target="1017795">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="897661" target="1017786">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="897687" target="1017795">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="897807" target="1017787">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="898325" target="1017793">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="898332" target="1017793">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="898387" target="1017787">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="898685" target="1017796">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="898733" target="1017796">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="898736" target="1017796">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="898928" target="1017796">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="898938" target="1017796">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="898951" target="1017797">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="899102" target="1017787">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="899326" target="1017787">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="899420" target="1017795">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="899590" target="1017787">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="899767" target="1017789">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="899775" target="1017792">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="899832" target="1017794">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="899897" target="1017794">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="899963" target="1017794">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="899965" target="1017796">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="900066" target="1017796">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="900075" target="1017795">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="900264" target="1017786">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="900424" target="1017786">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="901417" target="1017786">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="901608" target="1017796">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="901620" target="1017794">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="902357" target="1017786">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="902358" target="1017793">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="902499" target="1017788">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="902748" target="1017791">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="903097" target="1017788">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="903414" target="1017789">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="903454" target="1017789">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="903572" target="1017789">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="903589" target="1017791">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="903755" target="1017791">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="903768" target="1017796">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="903983" target="1017790">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="904235" target="1017795">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="904341" target="1017796">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="905153" target="1017786">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="905369" target="1017794">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="905424" target="1017786">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="905513" target="1017794">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="905698" target="1017791">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="905709" target="1017789">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="905748" target="1017794">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="905774" target="1017788">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="905892" target="1017795">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="905925" target="1017796">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="906021" target="1017796">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="906242" target="1017791">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="906304" target="1017795">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="906561" target="1017793">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="906677" target="1017786">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="906833" target="1017791">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="906927" target="1017786">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="906971" target="1017786">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="906975" target="1017787">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="907093" target="1017786">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="907743" target="1017795">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="907747" target="1017790">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="908002" target="1017794">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="908171" target="1017796">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="908204" target="1017794">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="908470" target="1017794">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="908625" target="1017795">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="908833" target="1017789">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="908849" target="1017794">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="909253" target="1017794">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="909388" target="1017791">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="909487" target="1017794">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="909672" target="1017793">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="909688" target="1017788">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="909735" target="1017788">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="909938" target="1017787">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="909975" target="1017796">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="909980" target="1017791">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="910099" target="1017793">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="910584" target="1017787">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="910983" target="1017790">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="912229" target="1017794">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="912269" target="1017788">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="912298" target="1017794">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="912398" target="1017796">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="913005" target="1017786">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="913034" target="1017786">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="913177" target="1017786">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="913209" target="1017796">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="913221" target="1017791">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="913327" target="1017791">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="917685" target="1017794">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="939337" target="1017794">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="944491" target="1017796">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+    <edge source="944590" target="1017786">
+      <data key="d20">MEMBER_OF</data>
+    </edge>
+  </graph>
+</graphml>
